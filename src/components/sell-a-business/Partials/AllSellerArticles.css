@@ -1,0 +1,249 @@
+.seller-learning-heading {
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.main-stepper-heading {
+    font-weight: 500;
+    font-size: 27px;
+}
+
+.buyer-bg {
+    background-color: #3494de;
+    padding: 16px 0px;
+}
+
+.no-future-img {
+    float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../assets/AllArticles/valuing-a-business-that-has-no-future.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.appraisal-img {
+    float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../assets/AllArticles/a-detailed-account-of-how-an-appraiser-values-a-business.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.appraisal-report-img {
+    float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../assets/AllArticles/choosing-a-business-appraiser.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.six-rules-img {
+    float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../assets/AllArticles/in-business-valuation-how-does-one-judge-an-opinion.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.choosing-img {
+    float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../assets/AllArticles/valuing-a-business-that-has-no-future.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.increase-value-img {
+    float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../assets/AllArticles/TN_how-to-increase-value-attract-more-buyers.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.opinion-img {
+    float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../assets/AllArticles/in-business-valuation-how-does-one-judge-an-opinion.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.minute-bg {
+    background-color: #dedede;
+    padding: 5px 2px;
+}
+.bizOwner-tools {
+    text-decoration: none;
+
+    margin-left: 12px;
+}
+
+.bizOwner-tools:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.buyer-bg {
+    background-color: #3494de;
+    padding: 16px 0px;
+}
+
+.bizOwner-stepper-text {
+    text-decoration: none;
+}
+
+.bizOwner-stepper-text:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.bizOwner-paddingy {
+    margin-left: 8px;
+    padding: 22px 0px;
+    font-size: 22px;
+}
+
+.bizOwner-stepper-text {
+    font-size: 20px;
+}
+
+.stepper-heading {
+    font-size: 23px;
+    color: #3e3e3e;
+    font-weight: normal;
+}
+
+.side-tool-inner {
+    margin-left: 12px;
+}
+
+.book-btn {
+    background-color: #3494de;
+    font-size: 18px;
+}
+
+.book-btn:hover {
+    background-color: #206091;
+
+}
+
+.seller-learning-heading {
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.main-stepper-heading {
+    font-weight: 500;
+    font-size: 27px;
+}
+
+.tools-column {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.parent-div {
+    position: relative;
+}
+
+.bizOwner-tools {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.bizOwner-tools:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.book-img {
+    max-width: 100vw;
+    height: 190px;
+    background-image: url('../../../assets/images/babg_book_cover.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-position: left center; */
+}
+
+.step-one-btn {
+    background: #ff8300;
+    border: 1px solid #d88900;
+    background-color: #ff8300;
+    border-color: #da7205;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #9c5c17;
+    color: #fff;
+    filter: none;
+    float: left;
+    font-family: 'CostarBrownRegular', Helvetica, Arial, sans-serif;
+    padding: 8px 16px 9px 16px;
+    text-align: center;
+    text-shadow: none;
+}
+
+.text-body {
+    position: relative;
+}
+
+.minute-text-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #dedede;
+    padding: 5px 2px;
+}
+
+.parent-div {
+    position: relative;
+    padding-top: 30px;
+}
+
+.child-div {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.side-book2 {
+    position: absolute;
+    right: 0;
+    top: 22%;
+}
+
+.side-tools-position {
+    position: absolute;
+    right: 0;
+    top: 40.5%;
+}
+
+@media screen and (max-width: 990px) {
+    .side-book2 {
+        position: absolute;
+
+    }
+         .tools-column {
+             position: relative;
+    
+         }
+
+    .side-tools-position {
+        position: absolute;
+
+    }
+}

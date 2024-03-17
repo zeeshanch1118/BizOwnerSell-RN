@@ -1,0 +1,289 @@
+.biz-owner-business-detail-back-button {
+  background-color: transparent;
+  border: none;
+}
+
+.bizOwner-inner-bottom-heading {
+  font-family: 'Arimo' !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  /* or 32px */
+
+  /* Dark text */
+
+  color: #808080;
+}
+.biz-owner-paragraph-broker {
+  color: #606060;
+  font-size: 15px;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.biz-owner-box-shadow {
+  background: #ffffff;
+  box-shadow: 0px 0px 8px rgb(0 0 0 / 5%);
+  border-radius: 5px;
+}
+.biz-owner-detail-para-heading-broker {
+  font-size: 20px;
+  color: #020202;
+  font-weight: 600;
+  display: inline;
+}
+.biz-owner-detail-company-heading-broker {
+  font-size: 22px;
+  color: #020202;
+  font-weight: 600;
+  display: inline;
+}
+
+.biz-owner-detail-carousel-container-broker {
+  background: #ffffff;
+  /* white BG */
+  padding-bottom: 45px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+.carousel-control-prev-icon {
+  background: rgba(0, 0, 0, 0.9) !important;
+  backdrop-filter: blur(5px) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  padding-left: 5px !important;
+  padding-right: 8px !important;
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+  border-radius: 5px !important;
+
+  background-image: url('../../../assets/icons/carousel-back-btn.svg') !important;
+  background-size: 40px !important;
+}
+
+.carousel-control-next-icon {
+  background: rgba(0, 0, 0, 0.9) !important;
+  backdrop-filter: blur(5px) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  padding-left: 5px !important;
+  padding-right: 8px !important;
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+  border-radius: 5px !important;
+  background-size: 40px !important;
+
+  background-image: url('../../../assets/icons/carousel-next-btn.svg') !important;
+}
+.biz-owner-carousel-btn-images {
+  height: fit-content;
+}
+.biz-owner-detail-carousel-img {
+  height: 30rem;
+}
+.biz-owner-detail-carousel-img-sold {
+  height: 20rem;
+}
+#broker-company-img {
+  height: 10rem;
+  width: 100%;
+}
+
+.facebook-share-back-ground {
+  margin: 3px;
+  background-color: gray !important;
+  padding: 10px;
+  border-radius: 50%;
+}
+.facebook-share-back-ground:hover {
+  background-color: #4267b2 !important;
+}
+.email-share-back-ground {
+  margin: 3px;
+  background-color: gray !important;
+  padding: 10px;
+  border-radius: 50%;
+}
+.email-share-back-ground:hover {
+  background-color: #ec3604 !important;
+}
+.twitter-share-back-ground {
+  margin: 3px;
+  background-color: gray !important;
+  padding: 10px;
+  border-radius: 50%;
+}
+.twitter-share-back-ground:hover {
+  background-color: #00acee !important;
+}
+.linkdin-share-back-ground {
+  margin: 3px;
+  background-color: gray !important;
+  padding: 10px;
+  border-radius: 50%;
+}
+.linkdin-share-back-ground:hover {
+  background-color: #0a66c2 !important;
+}
+
+.biz-broker-License {
+  font-weight: 600 !important;
+  font-size: 16px !important;
+}
+.biz-broker-description {
+  font-size: 14px !important;
+  color: #606060;
+}
+.biz-broker-Membership {
+  font-weight: 500 !important;
+  font-size: 17px !important;
+}
+.biz-owner-carousel-indicators-btn {
+  background-color: #d9d9d9 !important;
+}
+.carousel-indicators .active {
+  background-color: #00a3ef !important;
+}
+
+.carousel-indicators [data-bs-target] {
+  box-sizing: content-box;
+  flex: 0 1 auto;
+  width: 10px; /* change width */
+  height: 10px; /* change height */
+  padding: 0;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  opacity: 0.5;
+  transition: opacity 0.6s ease;
+  border-radius: 100%;
+}
+
+.biz-owner-detail-price {
+  color: #00a3ef;
+  font-size: 22px;
+}
+.biz-owner-detail-table-price-title {
+  font-family: 'Arimo' !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  /* or 30px */
+
+  /* Dark text */
+
+  color: #808080;
+}
+.biz-owner-detail-table-price {
+  font-family: 'Arimo' !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 190.5%;
+  /* or 30px */
+
+  /* Light Blue */
+
+  color: #00a3ef;
+}
+
+.biz-owner-business-description-broker {
+  background: #ffffff;
+  /* white BG */
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+
+#detail-page-carousel-btn {
+  height: 32px;
+}
+.biz_owner_input_validation {
+  border-top: 1px solid red;
+  color: red;
+}
+.biz-broker-Membership-img {
+  width: 45px !important;
+  height: 35px !important;
+}
+
+@media screen and (max-width: 450px) {
+  .bizOwner-inner-bottom-heading {
+    font-size: 10px !important;
+  }
+  .biz-owner-detail-carousel-img {
+    height: 19rem !important;
+  }
+  .biz-owner-detail-map {
+    height: 20rem !important;
+  }
+  #broker-company-img {
+    height: 11rem !important;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .biz-owner-detail-price {
+    color: #00a3ef;
+    font-size: 15px;
+  }
+  .biz-owner-cash-flow-section h3 {
+    font-size: 15px;
+  }
+  .biz-owner-cash-flow-section {
+    border: none;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .biz-owner-paragraph-broker {
+    font-size: 13px;
+  }
+  .biz-broker-License {
+    font-size: 11px !important;
+  }
+  .broker-name {
+    font-size: 12px !important;
+  }
+  .broker-phone {
+    font-size: 11px !important;
+  }
+  .broker-phone-icon {
+    width: 10px !important;
+  }
+  .biz-broker-Membership {
+    font-size: 11px !important;
+  }
+  .biz-broker-Membership-img {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .biz-owner-detail-para-heading-broker {
+    font-weight: 500 !important;
+  }
+}
+@media screen and (min-width: 800px) {
+  .broker-Company-images {
+    width: 200px;
+  }
+
+  .broker-share-icon {
+    position: absolute;
+    right: 2px;
+    top: 5px;
+  }
+}

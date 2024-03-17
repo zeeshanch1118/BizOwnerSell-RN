@@ -1,0 +1,193 @@
+/* Stepper  */
+
+.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 2em !important;
+  height: 2em !important;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiStepIcon-root {
+  color: #2eb5ff !important;
+  display: block;
+}
+
+.MuiStepIcon-root.MuiStepIcon-active {
+  color: #081c3d !important;
+}
+.MuiStepIcon-root.MuiStepIcon-text-active {
+  fill: #efefef !important;
+}
+.MuiStepIcon-completed {
+  color: #00a3ef !important;
+}
+.MuiStepConnector-alternativeLabel {
+  top: 19px !important;
+  left: calc(-50% + 20px);
+  right: calc(50% + 20px);
+  position: absolute;
+}
+.MuiStepIcon-text {
+  fill: #fafafa !important;
+  font-size: 0.75rem;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+.multiSelectContainer input {
+  border: none;
+  margin-top: 4px;
+  background: transparent;
+  font-size: 15px;
+  padding-left: 15px;
+}
+
+/* multi select  */
+
+.multiSelectContainer li:hover {
+  background-color: #f5f8fa;
+}
+.highlightOption {
+  background-color: #f5f8fa;
+}
+.searchWrapper {
+  border: none;
+}
+.css-1s2u09g-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}
+.css-1pahdxg-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}
+
+/* industry  */
+
+#biz_owner_industry_options {
+  margin-top: -5px;
+  border-radius: 5px;
+}
+.css-1s2u09g-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+  padding: 4px 0px 3px 0px !important;
+}
+.css-1pahdxg-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+  padding: 4px 0px 3px 0px !important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+.biz_owner_search_options_value:hover {
+  background-color: #c5e3f4;
+}
+
+.biz_owner_continue_steper_btn {
+  position: absolute;
+  bottom: 4.8%;
+  left: 79.6%;
+}
+.react-tel-input .flag-dropdown {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding: 10px;
+  background-color: #f5f8fa !important;
+  border: 1px solid #ddedf7;
+}
+.react-tel-input .form-control {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.01rem;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 65px;
+  margin-left: 0;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+  border-radius: 5px;
+  line-height: 25px;
+  height: 45px !important;
+  width: 100%;
+  outline: none !important;
+}
+.react-tel-input .selected-flag {
+  background-color: #f5f8fa !important;
+}
+.react-tel-input .selected-flag:hover {
+  background-color: #f5f8fa !important;
+}
+
+.css-1fhf3k1-control {
+  height: 3.5rem;
+}
+
+#fgApi > .css-2b097c-container > .css-yk16xz-control {
+  min-height: 40px !important;
+  border: none !important;
+  background-color: #f5f8fa !important;
+  height: 40px !important;
+}
+#fgApi > .css-2b097c-container > .css-1pahdxg-control {
+  border-color: #f5f8fa !important;
+  background-color: #f5f8fa !important;
+}
+
+.PhoneInputInput {
+  border: none;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+}
+
+.PhoneInputInput:focus {
+  outline: none !important;
+}
+
+@media screen and (max-width: 650px) {
+  .bizOwner-add-new-listing-headings {
+    font-size: 18px !important;
+    line-height: 32px !important;
+    font-weight: 400 !important;
+  }
+  .css-tlfecz-indicatorContainer {
+    padding: 5px !important;
+  }
+  .css-1uccc91-singleValue {
+    top: 50% !important;
+
+    font-size: 9px;
+  }
+  #fgApi > .css-2b097c-container > .css-yk16xz-control {
+    min-height: 30px !important;
+    border: none !important;
+    background-color: #f5f8fa !important;
+    height: 30px !important;
+  }
+  .css-qc6sy-singleValue {
+    font-size: 8px !important;
+  }
+  .form-label {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #3f4254;
+  }
+
+  .css-1s2u09g-control > div {
+    font-size: 8px !important;
+  }
+}

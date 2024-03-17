@@ -1,0 +1,46 @@
+.footer-para {
+  color: #cccccc;
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+
+  font-size: 12px;
+  line-height: 200%;
+}
+.footer-heading {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 100%;
+  margin-bottom: 20px;
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+}
+.text-footer {
+  color: #cccccc;
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+}
+.icon-bg {
+  background-color: rgba(255, 255, 255, 0.2);
+  height: 40px;
+  width: 40px;
+  text-align: center;
+}
+.fb-icon:hover {
+  background-color: #4267b2;
+  color: white;
+}
+.linkedin-icon:hover {
+  background-color: #0a66c2;
+}
+.twitter-icon:hover {
+  background-color: #00acee;
+}
+.pint-icon:hover {
+  background-color: #e60023;
+}
+.behance-icon:hover {
+  background-color: #053eff;
+}
+.webico-border {
+  border-bottom: 1px solid #999999;
+}

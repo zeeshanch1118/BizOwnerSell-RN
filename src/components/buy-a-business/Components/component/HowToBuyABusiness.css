@@ -1,0 +1,293 @@
+a {
+  text-decoration: none;
+}
+.bizOwner-bg-color {
+  background-color: #00a3ef;
+}
+.bizOwner-headings {
+  font-size: 22px;
+  color: #00a3ef;
+  line-height: 1.3;
+  margin-bottom: 8px;
+  font-weight: 100;
+}
+.bizOwner-top-headings {
+  color: #fff;
+  font-size: 38px;
+  max-width: 1140px;
+  margin: 0 auto;
+  line-height: 1;
+  font-weight: normal;
+}
+.bizOwner-lead-heading {
+  font-size: 22px;
+  font-weight: lighter;
+}
+.bizOwner-parag {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  height: 78px;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 17px;
+  line-height: 26px;
+  margin-bottom: 0;
+  font-weight: lighter;
+}
+/* .fw-bold {
+    font-weight: 500 !important;
+} */
+
+.buy-bg {
+  background-color: #00a3ef;
+  padding-top: 20px;
+}
+.bizOwner-card-bg {
+  background-color: #2570a7;
+  padding: 30px 0px;
+}
+.cares-img {
+  float: left;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background-image: url('../../../../assets/images/cares-act.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.boom-img {
+  float: left;
+  max-width: 100%;
+  height: auto;
+
+  display: block;
+  background-image: url('../../../../assets/images/boom-for-business-buyers.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.covid-thrive-img {
+  float: left;
+  max-width: 100%;
+  height: auto;
+
+  display: block;
+  background-image: url('../../../../assets/images/business-during-covid.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.bizOwner-badge {
+  /* border-radius: 50%; */
+  background-color: #00a3ef;
+  height: 35px;
+  width: 35px;
+  margin-top: -40px;
+  border: 1.5px solid #fff;
+  font-size: 20px;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+  vertical-align: middle;
+}
+.step-one-btn:hover {
+  background-color: #00a3ef;
+}
+.bizOwner-tools:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.steper-btn {
+  background: #00a3ef;
+  border: 1px solid #097fb5;
+  background-color: #1db0f5;
+  border-color: #167cab;
+  border-radius: 10px;
+  box-shadow: none;
+  color: #fff;
+  float: left;
+  font-family: 'CostarBrownRegular', Helvetica, Arial, sans-serif;
+  padding: 8px 16px 9px 16px;
+  text-align: center;
+  text-shadow: none;
+}
+.steper-btn:hover {
+  background-color: #1db8ff;
+}
+.seller-card-text {
+  font-size: 16px;
+}
+.learn-more-btn {
+  background-color: #00a3ef;
+  border-color: #0d83ba;
+  border: 1px solid #0f87bf;
+  padding: 10px 32px;
+
+  font-size: 15px;
+  color: white;
+  border-radius: 10px;
+}
+.learn-more-btn:hover {
+  background-color: white;
+  border-color: #00a3ef;
+  border: 1px solid #00a3ef;
+  color: #00a3ef;
+}
+.card-back-text {
+  margin-top: -7%;
+}
+.buy-card {
+  position: relative;
+  width: 200px;
+  height: 280px;
+  box-shadow: 2px 2px 2px #1068a3;
+}
+.tools-column {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.side-book {
+  position: absolute;
+  right: 0;
+  top: 40.5%;
+}
+.recent-insights-row {
+  position: relative;
+}
+.buyer-tools {
+  font-size: 22px;
+  padding: 17px 0px;
+  font-weight: normal;
+}
+.card-title2 {
+  color: #00a3ef;
+  text-align: center;
+  line-height: 1.3;
+  font-size: 20px;
+  font-weight: 400;
+
+  /* padding: 10px 10px 5px 10px; */
+}
+.icon-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 100px;
+  height: 100px;
+  /* margin-bottom: 20px; */
+  /* width: 50%;
+    height: 50%; */
+  /* max-width: 100%; */
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+.closed-img {
+  float: left;
+  max-width: 100%;
+  /* height: 100vh; */
+
+  display: block;
+  /* height: 193px; */
+  background-image: url('../../../../assets/images/closed-business.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.book-img {
+  max-width: 100vw;
+  height: 190px;
+  background-image: url('../../../../assets/images/babg_book_cover.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-position: left center; */
+}
+.minute-bg {
+  background-color: #dedede;
+  padding: 5px 2px;
+}
+.free-text {
+  color: #a52e2c;
+}
+/* h3{
+    color: #3e3e3e;
+} */
+.bizOwner-tools {
+  text-decoration: none;
+  font-size: 18px;
+}
+.minute-bg {
+  background-color: #dedede;
+  padding: 6px;
+  font-size: 16px;
+  top: 0;
+  left: 0;
+}
+.bizOwner-tools:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.steper-btn {
+  background: #00a3ef;
+  border: 1px solid #0e6e9a;
+  background-color: #00a3ef;
+  border-color: #1a88ba;
+  border-radius: 10px;
+  box-shadow: none;
+  color: #fff;
+  float: left;
+  font-family: 'CostarBrownRegular', Helvetica, Arial, sans-serif;
+  padding: 8px 16px 9px 16px;
+  text-align: center;
+  text-shadow: none;
+}
+.steper-btn:hover {
+  background-color: #19b6ff;
+}
+.step-one-btn {
+  background: #00a3ef;
+  border: 1px solid #216f94;
+  background-color: #00a3ef;
+  border-color: #0f76a5;
+  border-radius: 10px;
+  box-shadow: none;
+  color: #fff;
+  filter: none;
+  float: left;
+  font-family: 'CostarBrownRegular', Helvetica, Arial, sans-serif;
+  padding: 8px 16px 9px 16px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.step-one-btn:hover {
+  background-color: #32beff;
+}
+@media screen and (max-width: 990px) {
+  .tools-column {
+    position: relative;
+    /* bottom: 0;
+        left: 0; */
+  }
+}
+@media screen and (max-width: 768px) {
+  .closed-img {
+    height: 30vh;
+  }
+
+  .book-img {
+    height: 30vh;
+  }
+  .cares-img {
+    height: 30vh;
+  }
+  .covid-thrive-img {
+    height: 30vh;
+  }
+  .boom-img {
+    height: 30vh;
+  }
+}

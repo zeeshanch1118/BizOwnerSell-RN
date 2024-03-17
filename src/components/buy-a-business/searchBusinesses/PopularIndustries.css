@@ -1,0 +1,32 @@
+.side-tools-text {
+  color: #081c3d;
+  font-size: 95%;
+  cursor: pointer;
+}
+.side-tools-text .form-check-input:checked[type='checkbox'] {
+  background-color: white;
+  background-image: url('../../../assets/icons/check-box-tick-icon.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 10px;
+  border: 3px solid #00a3ef;
+}
+.side-tools-text .form-check-input[type='checkbox'] {
+  border: 3px solid #808080;
+}
+.check-box-style {
+  float: right;
+  cursor: pointer;
+}
+.popular-section {
+  background: #ffffff;
+  /* white BG */
+
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+/* @media screen and (min-width: 1200px) {
+    .popular-section {
+      width: 93%;
+    }
+  } */

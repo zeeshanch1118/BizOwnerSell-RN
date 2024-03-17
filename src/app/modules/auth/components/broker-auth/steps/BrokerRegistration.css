@@ -1,0 +1,101 @@
+#biz_owner_addListing {
+  padding: 10px;
+  box-shadow: 0px 0px 7px 1px #d3e9f7;
+  border-radius: 10px;
+}
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+  margin-top: 16px;
+  text-align: center;
+  font-size: 12px !important;
+}
+
+.biz_owner_back_steper_btn {
+  margin-left: 8.7%;
+}
+.MuiStepIcon-root.MuiStepIcon-active {
+  color: #081c3d !important;
+}
+.MuiStepIcon-completed {
+  color: #00a3ef !important;
+}
+.bizOwner-add-listing-heading {
+  font-size: 25px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.franchise-btn-stepper {
+  border: 1px dashed rgba(89, 201, 238, 0.936) !important;
+}
+.franchise-btn-stepper:hover {
+  background-color: #e8f7ff !important;
+}
+.addListing-radio-btns {
+  width: 25px !important;
+  height: 25px !important;
+  margin-top: 1px !important;
+  margin-right: 10px !important;
+
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.form-check-input:checked {
+  padding-left: 9px !important;
+}
+.btn-active-bg {
+  background-color: #c7e8fcd3;
+  border: 1px dashed rgba(0, 0, 0, 0.324) !important;
+}
+.btn-stepper-disable {
+  border: 1px dashed rgba(89, 201, 238, 0.936) !important;
+  font-size: 18px;
+}
+
+@media screen and (min-width: 650px) {
+  .business-btn-stepper {
+    border: 1px dashed rgba(0, 0, 0, 0.324) !important;
+    font-size: 18px;
+  }
+  .franchise-btn-stepper {
+    border: 1px dashed rgba(89, 201, 238, 0.936) !important;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+    margin-top: 16px;
+    text-align: center;
+    font-size: 8px !important;
+  }
+}
+@media screen and (max-width: 450px) {
+  .bizOwner-add-new-listing-inner-heading {
+    font-size: 9px !important;
+    line-height: 21px !important;
+    font-weight: 400 !important;
+  }
+
+  .bizOwner-add-new-listing-heading {
+    font-size: 17px !important;
+    line-height: 32px !important;
+    font-weight: 400 !important;
+  }
+  .MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+    margin-top: 16px;
+    text-align: center;
+    font-size: 7px !important;
+  }
+  .MuiStepConnector-lineHorizontal {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 750px) {
+  .MuiStepConnector-lineHorizontal {
+    display: none !important;
+  }
+  .MuiStepLabel-labelContainer {
+    display: none !important;
+  }
+}

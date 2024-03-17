@@ -1,0 +1,35 @@
+.opportunities-bg{
+    background-color: #3494de;
+    padding: 10px 0px;
+}
+.oppor-parent{
+    position: relative;
+}
+.minute-oppor-text-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #dedede;
+    padding: 5px 3px;
+}
+.profile{
+    background-image: url('../../../../../../assets/profile/Bob-House.jpg');
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.inner-headings{
+    font-size:32px;
+    font-weight: normal;
+    padding-top: 30px;
+}
+.minute-bg {
+    background-color: #dedede;
+    padding: 6px;
+    font-size: 16px;
+    top: 0;
+    left: 0;
+  }

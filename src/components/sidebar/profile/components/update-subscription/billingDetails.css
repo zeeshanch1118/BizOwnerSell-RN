@@ -1,0 +1,97 @@
+.biz_owner_continue_stepper3_btn {
+  position: absolute;
+  bottom: 6.4%;
+  left: 81.5%;
+}
+
+.biz_owner_input_validation {
+  border-top: 1px solid red;
+  color: red;
+}
+.react-tel-input .flag-dropdown {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding: 10px;
+  background-color: #f5f8fa !important;
+  border: 1px solid #ddedf7;
+}
+
+.biz-owner-billing-btn {
+  position: absolute;
+  bottom: 60px;
+  display: block;
+  width: auto;
+  right: 69px;
+}
+.react-tel-input .form-control {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.01rem;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 65px;
+  margin-left: 0;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+  border-radius: 5px;
+  line-height: 25px;
+  height: 45px !important;
+  width: 100%;
+  outline: none !important;
+}
+.react-tel-input .selected-flag {
+  background-color: #f5f8fa !important;
+}
+.react-tel-input .selected-flag:hover {
+  background-color: #f5f8fa !important;
+}
+.lgjCTq.is-invalid {
+  background-color: #f5f8fa !important;
+}
+.lfVwdQ .credit-card-input {
+  border: 0px;
+  position: absolute;
+  width: 100%;
+  font-size: 1em;
+  background-color: #f5f8fa !important;
+}
+.lgjCTq {
+  background-color: #f5f8fa !important;
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  padding: 10px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+@media screen and (max-width: 650px) {
+  .form-label {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #3f4254;
+  }
+
+  input,
+  input::-webkit-input-placeholder {
+    font-size: 9px !important;
+  }
+
+  .css-1s2u09g-control > div {
+    font-size: 8px !important;
+  }
+}
+.biz-owner-card-input {
+  background-color: #f5f8fa !important;
+  border-radius: 5px !important;
+  color: #5e6278 !important;
+  padding: 14px 8px;
+}

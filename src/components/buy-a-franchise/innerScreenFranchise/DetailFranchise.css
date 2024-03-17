@@ -1,0 +1,367 @@
+/* * {
+  font-family: 'Arimo' !important;
+} */
+.biz-owner-business-detail-back-button {
+  background-color: transparent;
+  border: none;
+}
+.biz-owner-business-detail-container {
+  border-bottom: 1.5px solid #e8e8e8;
+}
+.badge-container {
+  position: absolute;
+  top: 0;
+  left: -12px;
+  z-index: 2;
+}
+.biz-owner-location-icon {
+  width: 20px;
+  height: 40px;
+  margin-bottom: 5px;
+  padding-right: 5px;
+}
+.biz-owner-business-detail-heading {
+  font-family: 'Arimo' !important;
+
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  /* line-height: 190%; */
+  /* identical to box height, or 57px */
+  overflow-wrap: break-word !important;
+  /* Dark Blue */
+
+  color: #081c3d;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.bizOwner-inner-bottom-heading {
+  font-family: 'Arimo' !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  /* or 32px */
+
+  /* Dark text */
+
+  color: #808080;
+}
+.inner-screen-carousel {
+  height: 450px !important;
+  overflow: hidden;
+}
+
+.inner-screen-carousel-img {
+  max-height: 100% !important;
+  max-width: 100% !important;
+}
+.biz_owner_input_validation {
+  border-top: 1px solid red;
+  color: red;
+}
+.biz-owner-paragraph {
+  color: #606060;
+  font-size: 15px;
+}
+.biz-owner-detail-para-heading {
+  font-size: 15px;
+  color: #020202;
+  font-weight: 600;
+}
+
+.biz-owner-detail-carousel-container {
+  background: #ffffff;
+  /* white BG */
+  padding-bottom: 45px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+.carousel-control-prev-icon {
+  background: rgba(0, 0, 0, 0.9) !important;
+  backdrop-filter: blur(5px) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  padding-left: 5px !important;
+  padding-right: 8px !important;
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+  border-radius: 5px !important;
+
+  background-image: url('../../../assets/icons/carousel-back-btn.svg') !important;
+  background-size: 40px !important;
+}
+.facebook-share-back-ground {
+  margin: 3px;
+  background-color: gray !important;
+  padding: 10px;
+  border-radius: 50%;
+}
+.facebook-share-back-ground:hover {
+  background-color: #4267b2 !important;
+}
+.email-share-back-ground {
+  margin: 3px;
+  background-color: gray !important;
+  padding: 10px;
+  border-radius: 50%;
+}
+.email-share-back-ground:hover {
+  background-color: #ec3604 !important;
+}
+.twitter-share-back-ground {
+  margin: 3px;
+  background-color: gray !important;
+  padding: 10px;
+  border-radius: 50%;
+}
+.twitter-share-back-ground:hover {
+  background-color: #00acee !important;
+}
+.linkdin-share-back-ground {
+  margin: 3px;
+  background-color: gray !important;
+  padding: 10px;
+  border-radius: 50%;
+}
+.linkdin-share-back-ground:hover {
+  background-color: #0a66c2 !important;
+}
+.carousel-control-next-icon {
+  background: rgba(0, 0, 0, 0.9) !important;
+  backdrop-filter: blur(5px) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  padding-left: 5px !important;
+  padding-right: 8px !important;
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+  border-radius: 5px !important;
+  background-size: 40px !important;
+
+  background-image: url('../../../assets/icons/carousel-next-btn.svg') !important;
+}
+
+.biz-owner-carousel-btn-images {
+  margin: 5px;
+  width: fit-content;
+  height: fit-content;
+  /* background: rgba(0, 0, 0, 0.6); */
+  padding: 6px;
+  border-radius: 3px;
+}
+.biz-owner-detail-carousel-img {
+  height: 30rem;
+}
+.biz-owner-carousel-indicators {
+  position: absolute;
+  bottom: -51px;
+  margin-bottom: 0;
+}
+.biz-owner-carousel-indicators-btn {
+  background-color: #d9d9d9 !important;
+  /* color: #00a3ef !important; */
+  /* border-radius: 50%; */
+  /* height: 100px;
+    width: 200px; */
+}
+.carousel-indicators .active {
+  background-color: #00a3ef !important;
+}
+/* .carousel-indicators li {
+    width: 1px;
+    height: 100px;
+    border-radius: 100%;
+  } */
+.carousel-indicators [data-bs-target] {
+  box-sizing: content-box;
+  flex: 0 1 auto;
+  width: 10px; /* change width */
+  height: 10px; /* change height */
+  padding: 0;
+  margin-right: 3px;
+  margin-left: 3px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  opacity: 0.5;
+  transition: opacity 0.6s ease;
+  border-radius: 100%;
+}
+.biz-owner-detail-container {
+  background: #ffffff;
+  /* white BG */
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+.biz-owner-detail-price {
+  color: #00a3ef;
+  font-size: 22px;
+}
+.biz-owner-detail-table-price-title {
+  font-family: 'Arimo' !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  /* or 30px */
+
+  /* Dark text */
+
+  color: #808080;
+}
+.biz-owner-detail-table-price {
+  font-family: 'Arimo' !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 190.5%;
+  /* or 30px */
+
+  /* Light Blue */
+
+  color: #00a3ef;
+}
+.biz-owner-cash-flow-section {
+  border-right: 1.5px solid #e2e2e2;
+}
+.biz-owner-btn-container {
+  border: 2px solid #00a3ef;
+  /* width: fit-content; */
+  border-radius: 25px;
+  padding-bottom: 0;
+  padding-top: 0;
+  /* height: fit-content; */
+}
+
+.biz-owner-detail-page-save-btn {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  border: none;
+}
+.biz-owner-detail-page-valuation-btn {
+  padding-right: 2px !important;
+  padding-left: 2px !important;
+}
+.biz-owner-detail-page-btn {
+  border-radius: 0;
+  border: none;
+}
+/* .save-btn {
+  } */
+.biz-owner-active-btn {
+  background-color: #349ed9;
+  color: white;
+  border-radius: 20px;
+  border-radius: 20px;
+  border: none;
+
+  /* border-top: 1.7px solid #00a3ef;
+    border-bottom: 1.7px solid #00a3ef; */
+}
+.biz-owner-business-description {
+  background: #ffffff;
+  /* white BG */
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+.biz-owner-about-table-headings {
+  font-size: 17px;
+  color: #2e2e2e;
+}
+.biz-owner-about-table-price {
+  font-size: 17px;
+}
+.detail-page-carousel-btn {
+  height: 40px;
+}
+.biz-owner-detail-map {
+  height: 400px !important;
+}
+@media screen and (max-width: 800px) {
+  .inner-screen-carousel {
+    height: 250px !important;
+    overflow: hidden;
+  }
+  .biz-owner-detail-price {
+    color: #00a3ef;
+    font-size: 15px;
+  }
+  .biz-owner-cash-flow-section h3 {
+    font-size: 15px;
+  }
+  .biz-owner-cash-flow-section {
+    border: none;
+  }
+}
+@media screen and (max-width: 650px) {
+  .inner-screen-carousel {
+    height: 200px !important;
+    overflow: hidden;
+  }
+  .biz-owner-detail-table-price-title {
+    font-size: 13.4px;
+  }
+  .biz-owner-detail-table-price {
+    font-size: 13px;
+  }
+  .biz-owner-detail-page-save-btn {
+    font-size: 12px;
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+  }
+  .biz-owner-detail-page-valuation-btn {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    font-size: 12px;
+  }
+
+  .biz-owner-detail-page-btn {
+    font-size: 12;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  .biz-owner-paragraph {
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .inner-screen-carousel {
+    height: 150px !important;
+    overflow: hidden;
+  }
+  .biz-owner-business-detail-heading {
+    font-size: 18px;
+  }
+  .bizOwner-inner-bottom-heading {
+    font-size: 13px;
+  }
+  .biz-owner-detail-carousel-img {
+    height: 20rem;
+  }
+  .biz-owner-detail-map {
+    height: 20rem !important;
+  }
+}
+@media screen and (max-width: 400px) {
+  .bizOwner-btn-inner {
+    font-size: 8px !important;
+  }
+  .biz-owner-franchise-overview {
+    font-size: 9px !important;
+  }
+}

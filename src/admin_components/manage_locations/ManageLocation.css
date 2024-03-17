@@ -1,0 +1,42 @@
+.multiSelectContainer li:hover {
+  background-color: #deedf7;
+  color: black;
+}
+.highlightOption {
+  background-color: white;
+  color: black;
+}
+.searchBox {
+  background-color: '#f5f8fa';
+}
+
+.searchWrapper {
+  border: none;
+  padding: 5px;
+}
+.css-1s2u09g-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+  height: 3.3rem;
+}
+.css-14el2xx-placeholder {
+  color: #a7abbc !important;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.css-1pahdxg-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+  box-shadow: none !important;
+  height: 3.3rem;
+}
+.css-1pahdxg-control {
+  color: #a7abbc !important;
+  box-shadow: none;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+.myError {
+  border-top: 1.5px solid red;
+  color: red;
+}

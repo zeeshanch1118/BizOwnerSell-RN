@@ -1,0 +1,41 @@
+.bizOwner-bg-color{
+    background-color: #00A3EF;
+}
+.bizOwner-headings{
+    font-size: 24px;
+    color: #00A3EF;
+    line-height: 1.3;
+    margin-bottom: 8px;
+    font-weight: lighter;
+}
+.bizOwner-top-headings{
+    color: #fff;
+    font-size: 38px;
+    max-width: 1140px;
+    margin: 0 auto;
+    line-height: 1;
+    font-weight: normal;
+}
+.bizOwner-lead-heading{
+    font-size: 22px;
+    font-weight: lighter;
+    
+}
+.bizOwner-parag{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    height: 78px;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-size: 17px;
+    line-height: 26px;
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+.minute-bg{
+    background-color: #dedede;
+    padding: 5px 2px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}

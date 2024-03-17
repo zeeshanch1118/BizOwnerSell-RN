@@ -1,0 +1,24 @@
+.chat-hover {
+  cursor: pointer;
+}
+.chat-hover:hover {
+  background-color: #f1faff;
+}
+.icon-text-color {
+  color: #b5b5c3;
+}
+.icon-text-color:hover {
+  cursor: pointer;
+  color: #00a3ef;
+}
+.search-field {
+  outline: none;
+}
+.jodit-workplace + .jodit-status-bar:not(:empty) {
+  display: none !important;
+}
+
+.myError {
+  border-top: 1.5px solid red;
+  color: red;
+}

@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bizOwner-stepper-text{
+    text-decoration: none;
+}
+.step-headings{
+    color: #507ec4;
+}
+.buyer-bg{
+    background-color: #3494de;
+    
+}
+.bizOwner-stepper-text:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.step-one-btn{
+    background: #ff8300;
+    border: 1px solid #d88900;
+    background-color: #ff8300;
+    border-color: #da7205;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #9c5c17;
+    color: #fff;
+    filter: none;
+    float: left;
+    font-family: 'CostarBrownRegular',Helvetica,Arial,sans-serif;
+    padding: 8px 16px 9px 16px;
+    text-align: center;
+    text-shadow: none;
+}
+.text-body{
+    position: relative;
+}
+.minute-text-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #dedede;
+    padding: 5px 2px;
+}
+.parent-div{
+position: relative;
+padding-top: 30px;
+}
+.child-div{
+position: absolute;
+top: 0;
+right: 0;
+}
+.card-title{
+    color: #2570a7;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 22px;
+    /* padding: 10px 10px 5px 10px */
+}
+.side-book2{
+    position: absolute;
+    right: 0;
+    top: 22%;
+}
+.side-tools-position{
+    position: absolute;
+    right: 0;
+    top: 40.5%;
+}
+@media screen and (max-width: 990px) {
+    .side-book2{
+        position: absolute;
+       
+    }
+    .side-tools-position{
+        position: absolute;
+        
+    }
+}

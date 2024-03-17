@@ -1,0 +1,46 @@
+.messageStyle {
+  animation-name: example;
+  animation-duration: 0.5s;
+  animation-direction: reverse;
+  height: 100%;
+}
+
+@keyframes example {
+  100% {
+    left: 350px;
+    top: 0px;
+  }
+}
+.modal-backdrop.show {
+  opacity: 0;
+}
+.offcanvas-end {
+  width: 490px;
+  padding: 20px;
+}
+
+.slide_box {
+  width: 0px;
+  background-color: whitesmoke;
+  height: 100vh;
+  overflow-y: scroll;
+  /* padding: 20px; */
+  text-align: justify;
+  /* float: right; */
+  right: 0%;
+  top: 0%;
+  z-index: 99999;
+  /* display: none; */
+  position: fixed;
+}
+
+.close_btn {
+  background-color: rgb(218, 223, 223);
+  padding: 10px;
+
+  border: none;
+  color: white;
+  border-radius: 5px;
+
+  font-size: 15px;
+}

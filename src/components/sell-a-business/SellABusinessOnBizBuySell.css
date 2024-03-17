@@ -1,0 +1,146 @@
+.SellABussinessBody {
+  font-family: 'CostarBrownLight', Helvetica, Arial, sans-serif;
+}
+.inner_first_container {
+  background-image: url('https://www.bizbuysell.com/xcommon/images/marketing/sell/sell-hero-people2.png');
+  height: 436px;
+  max-width: 100%;
+  background-repeat: no-repeat;
+  background-position: center top;
+}
+.inner_first_container .headingOne {
+  font-size: 450%;
+  padding-top: 6%;
+  font-weight: 600%;
+  font-style: normal;
+  color: #ffffff;
+  line-height: 81px;
+  size: 95px;
+  margin-left: 10%;
+}
+.inner_first_container .ParaOne {
+  margin-left: 10%;
+  font-size: 200%;
+  font-weight: 700;
+  font-style: normal;
+  color: #ffffff;
+  line-height: 101px;
+  size: 95px;
+}
+.button-z {
+  margin-left: 10%;
+  background-color: #00a3ef;
+  padding: 10px 50px;
+  color: aliceblue;
+  font-style: normal;
+  /* line-height: 31px; */
+  /* size: 35px; */
+  border: none;
+  /* margin-left: ; */
+}
+.button-z:hover {
+  background-color: #045c85;
+}
+.exposure-header {
+  color: rgb(8, 8, 8);
+  font-size: 30px;
+
+  text-align: center;
+  padding: 34px;
+}
+
+.callout {
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 9px 4px rgb(0 0 0 / 6%);
+}
+.callout p {
+  font-size: 15px;
+  line-height: 18px;
+  text-align: center;
+  font-family: 'CostarBrownRegular', Helvetica, Arial, sans-serif;
+  color: #333;
+  padding: 20px 20px;
+  font-size: large;
+}
+.nearest_competitor h1 {
+  font-size: 300%;
+  padding-top: 6%;
+
+  font-style: normal;
+  color: rgb(10, 10, 10);
+  line-height: 50px;
+
+  /* margin-left: 10%; */
+}
+.nearest_competitor p {
+  font-size: 150%;
+  padding-top: 4%;
+  font-style: normal;
+  color: rgb(10, 10, 10);
+  line-height: 30px;
+  /* margin-left: 10%; */
+}
+.nearest_competitors h1 {
+  font-size: 250%;
+  padding-top: 6%;
+
+  font-style: normal;
+  color: rgb(10, 10, 10);
+  line-height: 50px;
+
+  /* margin-left: 14%; */
+}
+.nearest_competitors p {
+  font-size: 150%;
+  /* padding-top: 6%; */
+  font-style: normal;
+  color: rgb(10, 10, 10);
+  line-height: 30px;
+  /* margin-left: 14%; */
+}
+
+.image {
+  background-color: #e4f6fc;
+}
+
+.bizOwnerSelldownload {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-48%);
+  color: #fff;
+  font-size: 21px;
+  cursor: pointer;
+  background-color: #00a0df;
+  border-radius: 5px;
+  bottom: 5%;
+  width: 66%;
+  height: 12%;
+
+  /* padding: 5px 12px; */
+  margin-left: 0%;
+  font-family: 'CoStarBrownRegular', Helvetica, Arial, sans-serif;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.carousel_heading {
+  font-size: 41px;
+}
+.BizBiySellUnderLine:link {
+  text-decoration: none;
+}
+.BizBiySellUnderLine:visited {
+  text-decoration: none;
+}
+.BizBiySellUnderLine:hover {
+  text-decoration: underline;
+  /* background-color: aqua; */
+}
+.BizBiySellUnderLine:active {
+  text-decoration: underline;
+}

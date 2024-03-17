@@ -1,0 +1,300 @@
+.biz-owner-heading {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  font-family: 'Arimo' !important;
+  overflow-wrap: break-word !important;
+}
+.biz-owner-text-break {
+  overflow-wrap: break-word !important;
+}
+
+.biz-owner-business-paragraph {
+  font-size: 13px !important;
+  color: #081c3d;
+
+  overflow-wrap: break-word !important;
+  font-weight: normal;
+}
+
+.biz-owner-location-heading {
+  font-style: normal;
+  font-weight: normal !important;
+  font-size: 13px;
+  color: #081c3d;
+  /* line-height: 190%; */
+}
+.biz-owner-contact-btn {
+  border: 1.8px solid #00a3ef !important;
+  background-color: #fdfeff !important;
+  border-radius: 25px;
+  color: #00a3ef !important;
+  font-weight: 700;
+  font-size: 15px;
+}
+.biz-owner-btn-loader {
+  background-image: url('../../../assets/Loader/ButtonLoader.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 1.8px solid #00a3ef !important;
+  background-color: #00a3ef !important;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 13px;
+  width: 9.5rem !important;
+  height: 3rem !important;
+}
+.biz-owner-carousel-imgs {
+  height: 100% !important;
+  width: 100% !important;
+}
+.biz-owner-buy-a-business-component-broker {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+.biz-owner-end-border {
+  border-right: 0.5px solid #dbdbdb;
+}
+/* .biz-owner-price-dollar-icon {
+  position: relative;
+  top: -2px;
+} */
+.biz-owner-broker-certification {
+  color: #00a3ef;
+  font-size: 16px;
+}
+.cash-flow {
+  font-size: 14px;
+  color: #081c3d;
+  font-weight: 500;
+}
+.social-media-icons {
+  border-right: 0.5px solid #dbdbdb;
+  padding-bottom: 4px;
+}
+.biz-owner-line-breaker {
+  display: -webkit-box !important;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2 !important;
+  overflow: hidden;
+}
+
+/* .biz_owner_carousel_imgs {
+  height: 3rem !important;
+  width: 100%;
+}
+.biz_owner_carousel_container {
+  height: 10rem !important;
+} */
+
+.biz_owner_carousel_img_camera {
+  width: 30px;
+  height: 24px;
+
+  margin-top: 6px;
+  margin-right: 12px;
+}
+.biz_owner_carousel_img_camera-active {
+  width: 30px;
+  height: 24px;
+
+  margin-top: 6px;
+  margin-right: 12px;
+}
+.biz-owner-heart-icon-save-listings {
+  width: 28px;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.biz-owner-carousel-btn-left {
+  position: absolute;
+  background-color: #000000;
+  bottom: 10px;
+  height: fit-content;
+  left: 29%;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(5px);
+  border-radius: 3px;
+  border: none;
+  font-weight: bolder;
+  align-items: center;
+  /* background-image: url('../../../assets/icons/back-icon.svg');
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    background-size: contain; */
+}
+.biz-owner-carousel-btn-left:hover {
+  background: rgba(0, 0, 0, 0.9);
+  backdrop-filter: blur(5px);
+}
+.biz-owner-carousel-btn-right {
+  position: absolute;
+  background-color: #000000;
+  bottom: 10px;
+  height: fit-content;
+  right: 29%;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(5px);
+  border-radius: 3px;
+  border: none;
+}
+.biz-owner-carousel-btn-right:hover {
+  background: rgba(0, 0, 0, 0.9);
+  backdrop-filter: blur(5px);
+}
+.biz_owner_input_validation {
+  border-top: 1px solid red;
+  color: red;
+}
+.react-tel-input .form-control {
+  font-size: 14px;
+  letter-spacing: 0.01rem;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 65px;
+  margin-left: 0;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+  border-radius: 5px;
+  line-height: 25px;
+  height: 45px !important;
+  width: 100%;
+  outline: none !important;
+}
+.business-disable-btn {
+  border-radius: 25px;
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 15px;
+  background-color: #35b5f1 !important;
+  border: none !important;
+}
+.btn-contact-dismiss {
+  background-color: #35bfff53;
+  color: white;
+  cursor: default !important;
+}
+.btn-contact-dismiss:hover {
+  background-color: #35bfff53;
+  color: white;
+}
+
+.PhoneInputInput {
+  border: none;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+}
+
+.PhoneInputInput:focus {
+  outline: none !important;
+}
+
+@media screen and (max-width: 1125px) {
+  .biz-owner-carousel-btn-left {
+    left: 25%;
+  }
+  .biz-owner-carousel-btn-right {
+    right: 25%;
+  }
+}
+@media screen and (max-width: 769px) {
+  .biz-owner-end-border {
+    border: none;
+  }
+  #biz-owner-carousel-imgs-broker {
+    height: 14rem !important;
+    width: 100% !important;
+  }
+  .biz-owner-carousel-btn-left {
+    left: 25%;
+  }
+  .biz-owner-carousel-btn-right {
+    right: 25%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .biz-owner-heading {
+    font-weight: 600;
+    font-size: 14px;
+  }
+  .biz-owner-carousel-btn-left {
+    position: absolute;
+    bottom: 17px;
+    left: 30%;
+  }
+  .biz-owner-carousel-btn-right {
+    position: absolute;
+
+    bottom: 17px;
+    right: 30%;
+  }
+
+  .biz_owner_carousel_container {
+    height: 13rem !important;
+  }
+  .carousel-slide-container {
+    height: 100% !important;
+  }
+  .carousel-inner-container {
+    height: 100% !important;
+  }
+  .carousel-item-container {
+    height: 100% !important;
+  }
+  /* .biz-owner-carousel-imgs {
+    height: 13rem !important;
+    width: 100% !important;
+  } */
+}
+
+/* @media screen and (max-width: 1200px) {
+  .biz-owner-contact-btn {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+} */
+
+@media screen and (min-width: 760px) {
+  .biz-owner-contact-btn {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+  }
+  .biz-owner-buy-a-business-component-broker {
+    min-height: 14rem !important;
+  }
+  .biz_owner_carousel_container {
+    height: 100% !important;
+  }
+  .carousel-slide-container {
+    height: 100% !important;
+  }
+  .carousel-inner-container {
+    height: 100% !important;
+  }
+  .carousel-item-container {
+    height: 100% !important;
+  }
+}
+@media screen and (min-width: 1399px) {
+  .cash-flow {
+    font-size: 15px;
+    color: #081c3d;
+    font-weight: lighter;
+  }
+}

@@ -1,0 +1,61 @@
+.bizOwner-tools {
+    text-decoration: none;
+    
+    margin-left: 12px;
+  }
+  .bizOwner-tools:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .buyer-bg {
+    background-color: #3494de;
+    padding: 16px 0px;
+  }
+  .bizOwner-stepper-text {
+    text-decoration: none;
+  }
+  .bizOwner-stepper-text:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .bizOwner-paddingy{
+    margin-left: 8px;
+    padding : 22px 0px;
+    font-size: 22px;
+  }
+  .bizOwner-stepper-text{
+    font-size: 20px;
+  }
+  .stepper-heading{
+    font-size: 23px;
+    color:#3e3e3e;
+    font-weight:normal;
+  }
+  .side-tool-inner{
+    margin-left: 12px;
+  }
+  .book-btn{
+    background-color: #3494de;
+    font-size: 18px;
+  }
+  .book-btn:hover{
+    background-color: #206091;
+   
+  }
+  .seller-learning-heading{
+    font-weight:100;
+    font-size: 20px;
+  }
+  .main-stepper-heading{
+    font-weight: 500;
+  font-size: 27px;
+  }
+  @media screen and (max-width: 990px) {
+    .tools-column{
+        position: relative;
+        /* bottom: 0;
+        left: 0; */
+        
+    }
+  
+}

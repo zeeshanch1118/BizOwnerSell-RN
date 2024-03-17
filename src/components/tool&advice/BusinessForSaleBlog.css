@@ -1,0 +1,7 @@
+.bg-blog-color {
+  background-color: #ff8300;
+  border: 1px solid #d88900;
+}
+.bg-blog-color:hover {
+  background-color: #da7205;
+}

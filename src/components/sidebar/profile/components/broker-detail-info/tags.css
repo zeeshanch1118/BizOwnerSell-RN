@@ -1,0 +1,42 @@
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(225, 224, 224);
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #f5f8fa;
+}
+.tag {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 2px 5px 2px 0px;
+  color: rgb(20, 20, 20);
+  background-color: #d6eaf6;
+}
+
+.tag-container input {
+  border: none;
+  flex: 1;
+  outline: none;
+  padding: 5;
+  background: #f5f8fa;
+  color: rgb(0, 0, 0);
+}
+.tag span {
+  margin-left: 5px;
+  cursor: pointer;
+}
+@media screen and (max-width: 650px) {
+  .form-label {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #3f4254;
+  }
+
+  .css-1s2u09g-control > div {
+    font-size: 8px !important;
+  }
+}

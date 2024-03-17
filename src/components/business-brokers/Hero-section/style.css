@@ -1,0 +1,61 @@
+.biz-owner-heading {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  font-family: 'Arimo' !important;
+  overflow-wrap: break-word !important;
+}
+.biz-owner-text-break {
+  overflow-wrap: break-word !important;
+}
+.biz-owner-business-paragraph {
+  font-size: 13px !important;
+  color: #050607e1;
+
+  overflow-wrap: break-word !important;
+  font-weight: normal;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.biz-owner-buy-a-business-components-broker {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 450px) {
+  .biz-owner-heading {
+    font-weight: 400;
+    font-size: 14px;
+  }
+  .biz-owner-image-broker-icon {
+    display: flex !important;
+    justify-content: center !important;
+    height: 97px !important;
+    width: 160px !important;
+  }
+}
+@media screen and (min-width: 760px) {
+  .biz-owner-buy-a-business-components-broker {
+    height: 12rem !important;
+  }
+  .biz-owner-image-broker-icon {
+    height: 10rem !important;
+  }
+}
+
+/* @media screen and (max-width: 1200px) {
+    .biz-owner-contact-btn {
+      padding-left: 20px !important;
+      padding-right: 20px !important;
+    }
+  } */

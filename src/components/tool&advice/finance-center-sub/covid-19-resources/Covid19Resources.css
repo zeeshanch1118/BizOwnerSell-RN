@@ -1,0 +1,25 @@
+.li_font_size {
+  font-size: 16px;
+}
+.li_font_size:hover > .anchor_tag {
+  text-decoration: underline;
+}
+/* .anchor_tag:hover {
+  text-decoration: underline;
+} */
+.heading_h2 {
+  font-family: 'CostarBrownRegular', Helvetica, Arial, sans-serif;
+  /* font-weight: normal !important; */
+  color: #3e3e3e;
+  font-size: 24px;
+  line-height: 30px;
+}
+.heading_h3 {
+  font-family: 'CostarBrownLight', Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  font-weight: normal !important;
+  color: #3e3e3e;
+}
+.paragraph {
+  font-size: 16px;
+}

@@ -1,0 +1,120 @@
+/* .chat-hover {
+  cursor: pointer;
+}
+.chat-hover:hover {
+  background-color: #f1faff;
+}
+.icon-text-color {
+  color: #b5b5c3;
+}
+.icon-text-color:hover {
+  cursor: pointer;
+  color: #00a3ef;
+}
+.search-field {
+  outline: none;
+}
+.jodit-workplace + .jodit-status-bar:not(:empty) {
+  display: none !important;
+} */
+
+.myError {
+  border-top: 1.5px solid red;
+  color: red;
+}
+
+.multiSelectContainer li:hover {
+  background-color: #deedf7 !important;
+}
+.highlightOption {
+  background-color: #deedf7 !important;
+}
+.searchWrapper {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  /* padding: 5px, 5px !important; */
+  border: none !important;
+}
+.searchBox {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+.saved-btn {
+  border-radius: 0%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.all-location {
+  border-radius: 5px;
+}
+.css-1s2u09g-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}
+.css-1pahdxg-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}
+.biz-owner-inner-header-save-btn {
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+.biz-owner-inner-header-save-btn-drop-down {
+  border-top-right-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
+}
+.slide_box {
+  width: 0px;
+  background-color: white;
+  box-shadow: 3rem;
+  height: 100vh;
+  overflow-y: scroll;
+  /* padding: 20px; */
+  text-align: justify;
+
+  /* float: right; */
+  right: 0%;
+  top: 0%;
+  z-index: 99999;
+  /* display: none; */
+  position: fixed;
+}
+
+.close_btn {
+  background-color: rgb(218, 223, 223);
+  padding: 10px;
+
+  border: none;
+  color: white;
+  border-radius: 5px;
+
+  font-size: 15px;
+}
+
+/* /////////////// */
+.sideMenu {
+  background-color: white;
+  height: 100vh;
+  width: 35rem;
+  opacity: 0;
+  position: fixed;
+  visibility: hidden;
+  top: 10%;
+  right: 0%;
+
+  transition: all 0.2s ease;
+  transform: translateX(200px);
+}
+@media (max-width: 375px) {
+  .sideMenu {
+    width: 27rem;
+  }
+}
+.activeSideMenu {
+  opacity: 1;
+  position: fixed;
+
+  visibility: visible;
+  transition: all 0.2s ease;
+  transform: translateX(0);
+}

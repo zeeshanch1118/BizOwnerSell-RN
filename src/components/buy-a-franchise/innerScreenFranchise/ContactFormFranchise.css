@@ -1,0 +1,164 @@
+.biz-owner-contact-box {
+  background: #ffffff;
+  /* white BG */
+  padding-bottom: 25px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+  padding-top: 20px;
+  width: 97%;
+}
+
+#franchiseLocation * {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+#franchiseLocation
+  > .css-b62m3t-container
+  > .css-1s2u09g-control
+  > .css-319lph-ValueContainer
+  > .css-14el2xx-placeholder {
+  font-size: 14px !important;
+  color: hsl(231deg 12% 42%) !important;
+  font-weight: 500 !important;
+}
+#franchiseLocation
+  > .css-b62m3t-container
+  > .css-1s2u09g-control
+  > .css-319lph-ValueContainer
+  > .css-qc6sy-singleValue {
+  font-size: 14px !important;
+  color: hsl(231deg 12% 42%) !important;
+  font-weight: 500 !important;
+}
+#franchiseLocation
+  > .css-b62m3t-container
+  > .css-1pahdxg-control
+  > .css-319lph-ValueContainer
+  > .css-qc6sy-singleValue {
+  font-size: 14px !important;
+  color: hsl(231deg 12% 42%) !important;
+  font-weight: 300 !important;
+}
+#franchiseLocation
+  > .css-b62m3t-container
+  > .css-1s2u09g-control
+  > .css-1okebmr-indicatorSeparator {
+  display: none !important;
+}
+#franchiseLocation > .css-b62m3t-container > .css-1s2u09g-control > .css-tlfecz-indicatorContainer {
+  color: #000000 !important;
+}
+
+.biz-owner-contact-heading {
+  border-bottom: 1.5px solid #ececec;
+}
+.biz-owner-contact-form-input {
+  background-color: #f1f1f1;
+  border-radius: 19px;
+}
+.biz-owner-contact-form-btn {
+  background: #349ed9;
+  border-radius: 50px;
+  color: white !important;
+}
+.biz-owner-listed-by-container {
+  border-bottom: 1.3px solid #dedede;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.biz-owner-listed-by {
+  background: rgba(0, 163, 239, 0.1);
+  /* Light Blue */
+  padding-top: 20px;
+  padding-bottom: 25px;
+  border: 1px solid #00a3ef;
+  border-radius: 5px;
+}
+.biz-owner-listed-by-title {
+  color: #00a3ef;
+}
+.form-side-border {
+  border-right: 1px solid #dedede;
+  padding-left: 30px;
+}
+.biz-owner-submit-btn-message {
+  color: #808080;
+}
+.social-media-icons {
+  border-right: 0.5px solid #dbdbdb;
+  padding-bottom: 4px;
+}
+.myError {
+  border-top: solid;
+  border-width: 1px;
+  color: red;
+  margin: 0px;
+
+  margin-top: 0px;
+  /* background-color: #00a3ef; */
+}
+.biz_owner_input_validation {
+  border-top: 1px solid red;
+  color: red;
+}
+.react-tel-input .flag-dropdown {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding: 10px;
+  background-color: #f5f8fa !important;
+  border: 1px solid #ddedf7;
+}
+
+.react-tel-input .form-control {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.01rem;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 65px;
+  margin-left: 0;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+  border-radius: 5px;
+  line-height: 25px;
+  height: 45px !important;
+  width: 100% !important;
+  outline: none !important;
+}
+
+.react-tel-input .selected-flag {
+  background-color: #f5f8fa !important;
+}
+
+.react-tel-input .selected-flag:hover {
+  background-color: #f5f8fa !important;
+}
+.react-tel-input .flag-dropdown {
+  border: none !important;
+}
+
+.PhoneInputInput {
+  border: none;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+}
+
+.PhoneInputInput:focus {
+  outline: none !important;
+}
+
+@media screen and (max-width: 400px) {
+  .franchise-form-privacy-policy {
+    font-size: 9px !important;
+  }
+}

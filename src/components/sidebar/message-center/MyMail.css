@@ -1,0 +1,85 @@
+.messageStyle {
+  animation-name: example;
+  animation-duration: 0.5s;
+  animation-direction: reverse;
+  height: 100%;
+}
+
+@keyframes example {
+  100% {
+    left: 350px;
+    top: 0px;
+  }
+}
+.modal-backdrop.show {
+  opacity: 0;
+}
+.offcanvas-end {
+  width: 490px;
+  padding: 20px;
+}
+.font-style {
+  font-family: 'Helvetica Neue';
+  font-style: normal;
+  /* font-size: 1rem; */
+}
+.slide_box {
+  width: 0px;
+  background-color: white;
+  box-shadow: 3rem;
+  height: 100vh;
+  overflow-y: scroll;
+  /* padding: 20px; */
+  text-align: justify;
+
+  /* float: right; */
+  right: 0%;
+  top: 0%;
+  z-index: 99999;
+  /* display: none; */
+  position: fixed;
+}
+
+.close_btn {
+  background-color: rgb(218, 223, 223);
+  padding: 10px;
+
+  border: none;
+  color: white;
+  border-radius: 5px;
+
+  font-size: 15px;
+}
+
+@media (max-width: 450px) {
+  .mail-box-table-subject {
+    font-size: 9px !important;
+  }
+}
+/* /////////////// */
+.sideMenu {
+  background-color: white;
+  height: 100vh;
+  width: 35rem;
+  opacity: 0;
+  position: fixed;
+  visibility: hidden;
+  top: 10%;
+  right: 0%;
+
+  transition: all 0.2s ease;
+  transform: translateX(200px);
+}
+@media (max-width: 375px) {
+  .sideMenu {
+    width: 27rem;
+  }
+}
+.activeSideMenu {
+  opacity: 1;
+  position: fixed;
+
+  visibility: visible;
+  transition: all 0.2s ease;
+  transform: translateX(0);
+}

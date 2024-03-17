@@ -1,0 +1,22 @@
+.BizByzBody {
+  font-family: CostarBrownRegular, Helvetica, Arial, sans-serif;
+  font-size: larger;
+  font-weight: 400;
+  size: 2em;
+  line-height: 2em;
+  /* color: rgb(205, 46, 46)2, 39, 39); */
+  color: rgb(77, 71, 71);
+}
+
+.button-z {
+  background-color: #00a3ef;
+
+  color: aliceblue;
+  font-style: normal;
+
+  border: none;
+}
+.button-z:hover {
+  background-color: #045c85;
+  background-color: #deecf3;
+}

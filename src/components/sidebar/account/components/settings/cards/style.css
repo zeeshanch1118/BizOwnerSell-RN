@@ -1,0 +1,72 @@
+.css-1s2u09g-control {
+  background-color: #f5f8fa !important;
+  border-radius: 8px !important;
+  padding: 5px !important;
+
+  border: none !important;
+}
+.css-1pahdxg-control {
+  outline: none !important;
+  border: none !important;
+  background-color: #f5f8fa !important;
+}
+.css-qc6sy-singleValue {
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  color: #5e6278 !important;
+}
+.biz_owner_input_validation {
+  border-top: 1px solid red;
+  color: red;
+}
+.react-tel-input .form-control {
+  font-size: 14px;
+  letter-spacing: 0.01rem;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 65px;
+  margin-left: 0;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+  border-radius: 5px;
+  line-height: 25px;
+  height: 45px !important;
+  width: 100% !important;
+  outline: none !important;
+}
+#bgApi > .css-2b097c-container > .css-yk16xz-control {
+  border: none !important;
+  background-color: #f5f8fa !important;
+  height: 3.5rem;
+}
+.react-tel-input .flag-dropdown {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  padding: 10px;
+  background-color: #f5f8fa !important;
+  border: 1px solid #ddedf7;
+}
+
+.PhoneInputInput {
+  border: none;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+}
+
+.PhoneInputInput:focus {
+  outline: none !important;
+}
+
+@media (max-width: 450px) {
+  .react-tel-input .form-control {
+    height: 37px !important;
+    padding-left: 46px !important;
+  }
+  .form-select.form-select-solid {
+    font-size: 11px !important;
+  }
+  .react-tel-input .flag-dropdown {
+    padding: 4px !important;
+  }
+}

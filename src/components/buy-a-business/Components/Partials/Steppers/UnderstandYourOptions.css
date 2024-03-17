@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bizOwner-stepper-text{
+    text-decoration: none;
+    color: #00A3EF;
+}
+.step-headings{
+    color: #00A3EF;
+}
+.buyer-bg{
+    background-color: #00A3EF;
+    
+}
+.bizOwner-stepper-text:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.tools-column {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.parent-div {
+    position: relative;
+}
+
+.bizOwner-tools {
+    font-size: 22px;
+        padding: 17px 0px;
+        font-weight: normal;
+}
+
+.bizOwner-tools:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.book-img {
+    max-width: 100vw;
+    height: 190px;
+    background-image: url('../../../../../assets/images/babg_book_cover.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-position: left center; */
+}
+
+.step-one-btn {
+    background: #00A3EF;
+    border: 1px solid #216f94;
+    background-color: #00A3EF;
+    border-color: #0f76a5;
+    border-radius: 10px;
+    box-shadow: none;
+    color: #fff;
+    filter: none;
+    float: left;
+    font-family: 'CostarBrownRegular', Helvetica, Arial, sans-serif;
+    padding: 8px 16px 9px 16px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.step-one-btn:hover {
+    background-color: #32beff;
+}
+.text-body{
+    position: relative;
+}
+.minute-text-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #dedede;
+    padding: 5px 2px;
+}
+.parent-div{
+position: relative;
+padding-top: 30px;
+}
+.child-div{
+position: absolute;
+top: 0;
+right: 0;
+}
+.side-book2{
+    position: absolute;
+    right: 0;
+    top: 22%;
+}
+.side-tools-position{
+    position: absolute;
+    right: 0;
+    top: 40.5%;
+}
+@media screen and (max-width: 990px) {
+    .side-book2{
+        position: absolute;
+       
+    }
+    .side-tools-position{
+        position: absolute;
+        
+    }
+}

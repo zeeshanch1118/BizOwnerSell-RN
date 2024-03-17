@@ -1,0 +1,341 @@
+.g-bg-color {
+  background-color: #dee9f1;
+  /* font-family: 'Helvetica Neue'; */
+  font-family: 'Arimo' !important;
+}
+
+.family-font {
+  /* font-family: 'Helvetica 45 Light', sans-serif; */
+  font-family: 'Arimo' !important;
+}
+
+.locations-font {
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+
+  font-weight: lighter;
+}
+
+.font-family-bizOwner {
+  /* font-family: 'Helvetica Neue'; */
+  font-family: 'Arimo' !important;
+}
+
+.text-link {
+  color: #808080;
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+}
+
+.our-client {
+  font-size: 32px;
+  color: #081c3d;
+  /* font-family: 'Helvetica Neue'; */
+  font-family: 'Arimo' !important;
+}
+
+.featured-business {
+  font-size: 45px;
+  /* font-family: 'Helvetica Neue'; */
+  font-family: 'Arimo' !important;
+}
+
+.parent-img {
+  position: relative;
+  z-index: 0;
+}
+
+.parent-img2 {
+  position: absolute;
+  top: 0;
+  left: -4.5%;
+  z-index: 1;
+}
+
+.child-img {
+  position: absolute;
+  z-index: 2;
+  top: 24%;
+  left: 25%;
+}
+
+.child-img2 {
+  position: absolute;
+  z-index: 2;
+  bottom: 25%;
+  left: 31%;
+}
+
+.card-shadow {
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.2));
+  border-radius: 35px !important;
+}
+
+.listed-heading {
+  font-size: 25px;
+  color: #081c3d;
+  font-weight: lighter;
+  /* font-family: 'Helvetica 45 Light', sans-serif; */
+  font-family: 'Arimo' !important;
+}
+
+.btn-color {
+  background-color: white;
+  border: 1px solid #00a3ef;
+  color: #00a3ef;
+}
+
+.btn-color2 {
+  background-color: #dee9f1;
+  border: 1px solid #00a3ef;
+  color: #00a3ef;
+}
+
+.btn-color2:hover {
+  background-color: #00a3ef;
+  color: white;
+}
+
+.contact-btn {
+  background-color: #fff;
+  color: #00a3ef;
+  font-size: 14px;
+  border: 1px solid #00a3ef;
+}
+
+.listing-heading {
+  font-style: normal;
+  font-weight: 400;
+  /* font-size: 25px; */
+}
+
+.btn-color-more {
+  color: #081c3d;
+  border: 2px solid #081c3d;
+}
+
+.asking-price-2 {
+  color: #808080;
+  background-color: #fff;
+}
+
+.location-text {
+  color: #a6a5a5;
+  font-weight: lighter;
+  /* font-family: 'Helvetica Neue'; */
+  font-family: 'Arimo' !important;
+}
+
+.btn-color:hover {
+  background-color: #00a3ef;
+  border: 1px solid #00a3ef;
+  color: white;
+}
+
+.selected-color::selection {
+  background-color: #00a3ef;
+}
+
+.card-heading {
+  font-size: 14px;
+  font-family: 'Arimo' !important;
+}
+
+.heading-sell {
+  font-size: 25px;
+  color: white;
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+}
+
+.sell-btn {
+  border: 1px solid white;
+}
+
+.text-color {
+  color: #808080;
+  line-height: 21.84px;
+  font-size: 17px;
+  /* font-family: 'Helvetica Neue'; */
+  font-family: 'Arimo' !important;
+}
+
+.text-color-bizowner {
+  color: #808080;
+  font-weight: 300;
+  font-style: 13px;
+  line-height: normal;
+  /* font-family: Helvetica Neue; */
+  /* font-family: 'Helvetica Neue'; */
+  font-family: 'Arimo' !important;
+}
+
+.card-imgs {
+  height: 50.25px;
+  width: 50.25px;
+}
+
+.card-border-shadow {
+  box-shadow: 2px 2px 20px rgb(215, 216, 216);
+  height: 345px;
+  width: 345px;
+}
+
+.card-text-size {
+  font-size: 14px;
+  line-height: 21.5px;
+  color: #808080;
+  /* font-family: 'Helvetica 35 Thin', sans-serif; */
+  font-family: 'Arimo' !important;
+}
+
+.name-size {
+  font-size: '16px';
+  color: '#081C3D';
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+
+  font-weight: lighter;
+}
+
+.g-b-btn {
+  background-color: #ff8300;
+  border-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.border-rad {
+  box-shadow: 2px 2px 20px rgb(215, 214, 214);
+}
+
+.img-border {
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+}
+
+.clients-heading {
+  font-size: 40px;
+  color: #081c3d;
+  /* font-family: 'Helvetica 35 Thin', sans-serif; */
+  font-family: 'Arimo' !important;
+
+  font-weight: lighter;
+}
+
+.cara-heading {
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.cara-btn-landing {
+  /* font-family: 'Helvetica 45 Light', sans-serif; */
+  font-family: 'Arimo' !important;
+
+  font-size: 22px;
+}
+
+.testies {
+  /* font-family: 'Helvetica 25 UltraLight', sans-serif; */
+  font-family: 'Arimo' !important;
+
+  font-weight: 100;
+}
+
+.sell-text {
+  color: #081c3d;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: 47.5px;
+  /* font-family: 'Helvetica Neue'; */
+  font-family: 'Arimo' !important;
+}
+
+.card-width-height {
+  width: '278.67px';
+  height: '277.61px';
+  background-color: 'white';
+}
+
+@media (max-width: 900px) {
+  .card-outer {
+    width: 100%;
+    height: auto;
+  }
+
+  .card-scroll {
+    width: 905px;
+    height: auto;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+  }
+
+  .card-width-height {
+    max-width: 100%;
+  }
+
+  .parent-img {
+    position: relative;
+    z-index: 0;
+  }
+
+  .parent-img2 {
+    position: absolute;
+    top: 0;
+    /* left: -4.5%; */
+    right: 0;
+    z-index: 1;
+  }
+
+  .child-img {
+    position: absolute;
+    z-index: 2;
+    top: 24%;
+    left: 40%;
+  }
+
+  .child-img2 {
+    position: absolute;
+    z-index: 2;
+    bottom: 25%;
+    left: 46%;
+  }
+}
+
+.selBiz-h1 {
+  font-size: 3.5rem;
+  color: #5f5f5f;
+}
+
+@media (max-width: 576px) {
+  .card-text-size {
+    font-size: 11px;
+    line-height: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .featured-business {
+    font-size: 30px;
+  }
+  .none-border-md {
+    border-right: none;
+  }
+}
+
+@media (max-width: 320px) {
+  .cara-btn-landing {
+    font-size: 15px;
+  }
+
+  .cara-heading {
+    font-size: 14px;
+  }
+}

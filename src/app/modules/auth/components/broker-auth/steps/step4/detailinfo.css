@@ -1,0 +1,58 @@
+/* textarea {
+  outline: none;
+  background-color: #f5f8fa;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  padding: 7px;
+} */
+/* @media screen and (max-width: 650px) {
+  .form-label {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #3f4254;
+  }
+
+  input,
+  input::-webkit-input-placeholder {
+    font-size: 9px !important;
+  }
+
+  .css-1s2u09g-control > div {
+    font-size: 8px !important;
+  }
+} */
+
+.multiSelectContainer li:hover {
+  background-color: #deedf7 !important;
+}
+.highlightOption {
+  background-color: #deedf7 !important;
+}
+.searchWrapper {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  /* padding: 5px, 5px !important; */
+  border: none !important;
+}
+.searchBox {
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+}
+.saved-btn {
+  border-radius: 0%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.all-location {
+  border-radius: 5px;
+}
+.css-1s2u09g-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}
+.css-1pahdxg-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}

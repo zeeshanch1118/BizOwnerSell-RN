@@ -1,0 +1,51 @@
+textarea {
+  outline: none;
+  background-color: #f5f8fa;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  padding: 7px;
+}
+.financing .form-check-input:checked[type='checkbox'] {
+  background-color: white;
+  background-image: url('../../../../../../src/assets/icons/check-box-tick-icon.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 10px;
+  border: 3px solid #00a3ef;
+}
+.financing .form-check-input[type='checkbox'] {
+  border: 3px solid #808080;
+}
+
+@media screen and (max-width: 768px) {
+  .franchise-over-view-table {
+    display: none;
+  }
+  .franchise-over-view-table-body {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 650px) {
+  .form-label {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #3f4254;
+  }
+
+  .css-1s2u09g-control > div {
+    font-size: 8px !important;
+  }
+}
+
+.franchise-overView-validation {
+  border-bottom: 1.5px solid red;
+}
+
+@media screen and (max-width: 450px) {
+  textarea {
+    font-size: 8px !important;
+  }
+}

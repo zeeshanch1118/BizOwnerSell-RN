@@ -1,0 +1,60 @@
+/* * {
+  font-family: 'CostarBrownLight', Helvetica, Arial, sans-serif;
+} */
+.headers_bg {
+  background-color: #cdebfc;
+}
+.biz_Edge_h1 {
+  color: #63666a;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-size: 1px;
+  line-height: 34px;
+}
+.biz_Edge_p {
+  color: #63666a;
+  line-height: 28px;
+  font-style: normal;
+  font-size: 1.1rem;
+}
+.link_style {
+  text-decoration: none;
+  color: #63666a;
+  font-size: 1.3rem;
+  font-weight: normal;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.get_started {
+  font-style: normal;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #0c6cc4;
+}
+
+.get_started:hover {
+  text-decoration: underline;
+}
+
+/* .row::after {
+  display: table;
+  line-height: 0;
+  content: '';
+  clear: both;
+} */
+.btn_bg_color {
+  background-color: #00a3ef;
+  border: 1px solid #0a75a7;
+}
+.btn_bg_color:hover {
+  background-color: #048cca;
+}

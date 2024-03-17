@@ -1,0 +1,115 @@
+.img-main-street{
+    position: relative;
+         float: left;
+         max-width: 100%;
+           display: block;
+           background-image: url('../../../assets/real-stories/kauai-flowers-business.jpg');
+           background-size: cover;
+           background-repeat: no-repeat;
+           background-position: top center;
+  
+ }
+ .img-silver-line{
+     position: relative;
+          float: left;
+          max-width: 100%;
+            display: block;
+            background-image: url('../../../assets/real-stories/europa-gifts.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: top center;
+   
+  }
+  .img-selling{
+     position: relative;
+          float: left;
+          max-width: 100%;
+            display: block;
+            background-image: url('../../../assets/real-stories/selling-a-business-during-a-pandemic-when-talented-employees-are-the-perfect-buyers.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: top center;
+   
+  }
+  .img-clinic-research{
+     position: relative;
+          float: left;
+          max-width: 100%;
+            display: block;
+            background-image: url('../../../assets/real-stories/clinical-research-business.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: top center;
+   
+  }
+ .img-meet{
+     position: relative;
+     float: left;
+     max-width: 100%;
+       display: block;
+       background-image: url('../../../assets/real-stories/meet-mr-bagel-meister.jpg');
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: top center;
+  }
+  .img-immigrant{
+     position: relative;
+     float: left;
+     max-width: 100%;
+       display: block;
+       background-image: url('../../../assets/real-stories/fastsigns-case-study.jpg');
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: top center;
+  }
+  .img-small-boy{
+     position: relative;
+     float: left;
+     max-width: 100%;
+       display: block;
+       background-image: url('../../../assets/real-stories/blackhawk-fiberwerx.jpg');
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: top center;
+  }
+  .img-sharma{
+    position: relative;
+    float: left;
+    max-width: 100%;
+      display: block;
+      background-image: url('../../../assets/real-stories/gnarly-shawarma.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+  }
+  .img-home{
+    position: relative;
+    float: left;
+    max-width: 100%;
+      display: block;
+      background-image: url('../../../assets/real-stories/europa-gifts.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+  }
+  .img-fun-success{
+    position: relative;
+    float: left;
+    max-width: 100%;
+      display: block;
+      background-image: url('../../../assets/real-stories/nordic-mountain.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+  }
+  .img-couple-business{
+    position: relative;
+    float: left;
+    max-width: 100%;
+      display: block;
+      background-image: url('../../../assets/real-stories/chino-bakery.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+  }
+ 

@@ -1,0 +1,80 @@
+.seller-learning-heading {
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.main-stepper-heading {
+    font-weight: 500;
+    font-size: 27px;
+}
+.buyer-bg {
+    background-color: #3494de;
+    padding: 16px 0px;
+}
+.no-future-img{
+float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../../../assets/AllArticles/valuing-a-business-that-has-no-future.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.appraisal-img{
+float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../../../assets/AllArticles/a-detailed-account-of-how-an-appraiser-values-a-business.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.appraisal-report-img{
+float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../../../assets/AllArticles/choosing-a-business-appraiser.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.six-rules-img{
+float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../../../assets/AllArticles/in-business-valuation-how-does-one-judge-an-opinion.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.choosing-img{
+float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../../../assets/AllArticles/valuing-a-business-that-has-no-future.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.increase-value-img{
+float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../../../assets/AllArticles/TN_how-to-increase-value-attract-more-buyers.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.opinion-img{
+float: left;
+    max-width: 100%;
+    display: block;
+    background-image: url('../../../../../assets/AllArticles/in-business-valuation-how-does-one-judge-an-opinion.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.minute-bg {
+    background-color: #dedede;
+    padding: 5px 2px;
+}

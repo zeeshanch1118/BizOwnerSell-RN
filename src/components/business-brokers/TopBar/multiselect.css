@@ -1,0 +1,62 @@
+.multiSelectContainer li:hover {
+  background-color: #deedf7;
+}
+.highlightOption {
+  background-color: #deedf7;
+}
+.searchWrapper {
+  border: none;
+  background-color: #f5f8fa !important;
+}
+.saved-btn {
+  border-radius: 0%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.pading > div > div > div > .multiSelectContainer > .optionListContainer {
+  position: relative !important;
+  display: block !important;
+}
+.pading22 > div > .multiSelectContainer > .optionListContainer {
+  position: relative !important;
+  display: block !important;
+}
+.pading1 > div > .multiSelectContainer > .optionListContainer {
+  position: relative !important;
+  display: block !important;
+  top:0 !important
+}
+
+.pading2 > div > .multiSelectContainer > .optionListContainer {
+  position: relative !important;
+  display: block !important;
+  top:0 !important
+}
+.pading3 > div > .multiSelectContainer > .optionListContainer {
+  position: relative !important;
+  display: block !important;
+  top:0 !important
+}
+
+.close-menu > div > .multiSelectContainer .displayBlock {
+  display: none !important;
+}
+.all-location {
+  border-radius: 5px;
+}
+.css-1s2u09g-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}
+.css-1pahdxg-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}
+.biz-owner-inner-header-save-btn {
+  border-top-left-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+.biz-owner-inner-header-save-btn-drop-down {
+  border-top-right-radius: 5px !important;
+  border-bottom-right-radius: 5px !important;
+}

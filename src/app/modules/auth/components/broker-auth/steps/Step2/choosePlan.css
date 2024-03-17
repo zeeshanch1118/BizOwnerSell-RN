@@ -1,0 +1,97 @@
+.biz_owner_Plan_card {
+  /* border: 1px solid rgb(5, 6, 5) !important; */
+  box-shadow: 0px 0px 14px -10px grey !important;
+  width: 24rem;
+  padding: 0;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  position: relative;
+  top: 0;
+  transition: all 0.3s ease-out !important;
+}
+.choose_plane_card {
+  min-height: 35rem;
+}
+
+.biz-owner-selected-plan-dec {
+  margin-top: 0;
+  line-height: 25px;
+  padding-top: 8px;
+}
+.biz-owner-choose-plan-description {
+  overflow-wrap: break-word !important;
+  text-overflow: break-word !important;
+}
+
+.biz_owner_Plan_card_header {
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  font-size: 20px;
+  padding: 0;
+  color: white;
+  background-color: rgb(139, 209, 252);
+}
+
+.biz_owner_Plan_card_body {
+  padding: 1rem 1.25rem 2rem 1.25rem;
+}
+.biz_owner_Plan_card_body li {
+  font-size: 16px;
+  padding-top: 8px;
+}
+
+.biz_owner_basic_plan {
+  background-color: #00a3ef;
+  color: white;
+}
+.biz_owner_diamond_plan {
+  background-color: rgba(10, 205, 10, 0.68);
+  color: white;
+}
+
+.biz_owner_price_drop_down {
+  margin-top: auto;
+}
+.biz_owner_price_drop_select_button {
+  margin-top: auto;
+}
+
+.multiSelectContainer li:hover {
+  background-color: #deedf7;
+}
+.highlightOption {
+  background-color: #deedf7;
+}
+.searchWrapper {
+  border: none;
+}
+.css-1s2u09g-control {
+  background-color: #f0f5f8 !important;
+  border: none !important;
+}
+.css-1pahdxg-control {
+  background-color: #deedf7 !important;
+  border: none !important;
+}
+.biz_owner_sub_total {
+  background-color: #96ccf1;
+  padding: 15px;
+  border-radius: 7px;
+}
+
+.biz_owner_continue_stepper2_btn {
+  position: absolute;
+  bottom: 9.5%;
+  left: 80%;
+}
+.basic-plan-active {
+  border: 5px solid rgba(159, 164, 159, 0.82) !important;
+}
+.show-case-plan-active {
+  border: 5px solid rgb(139, 209, 252) !important;
+}
+.diamond-plan-active {
+  border: 5px solid rgba(10, 205, 10, 0.68) !important;
+}

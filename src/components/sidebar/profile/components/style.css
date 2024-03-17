@@ -1,0 +1,15 @@
+.PhoneInputInput {
+  border: none;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+}
+
+.PhoneInputInput:focus {
+  outline: none !important;
+}
+
+@media (max-width: 450px) {
+  .profile-overview-biz-owner {
+    font-size: 8px !important;
+  }
+}

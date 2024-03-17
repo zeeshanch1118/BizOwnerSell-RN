@@ -1,0 +1,95 @@
+.bizOwner-bg-color{
+    background-color: #00A3EF;
+}
+.bizOwner-headings{
+    font-size: 24px;
+    color: #00A3EF;
+    line-height: 1.3;
+    margin-bottom: 8px;
+    font-weight: lighter;
+}
+/* .parent-div{
+    position: relative;
+} */
+.bizOwner-top-headings{
+    color: #fff;
+    font-size: 38px;
+    max-width: 1140px;
+    margin: 0 auto;
+    line-height: 1;
+    font-weight: normal;
+}
+.bizOwner-lead-heading{
+    font-size: 22px;
+    font-weight: lighter;
+    
+}
+.inner-headings {
+    font-size: 32px;
+    font-weight: normal;
+    padding-top: 30px;
+}
+.bizOwner-parag{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    height: 78px;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    font-size: 17px;
+    line-height: 26px;
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+.buyer-tools{
+    font-size: 30px;
+    padding: 17px 0px;
+}
+.bizOwner-tools{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: normal;
+}
+.free-text{
+    color: #a52e2c;
+}
+.minute-parent{
+    position: relative;
+}
+.minute-bg2{
+    background-color: #dedede;
+    padding: 5px 2px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.recent-insights-row{
+    position: relative;
+}
+.tools-column{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 35px;
+}
+.book-img{
+    max-width: 100vw;
+      height: 190px;
+      background-image: url('../../../assets/images/babg_book_cover.jpg');
+      background-size: contain;
+      background-repeat: no-repeat;
+      /* background-position: left center; */
+}
+@media screen and (max-width: 990px) {
+    .tools-column{
+        position: relative;
+        /* bottom: 0;
+        left: 0; */
+        
+    }
+  
+}
+@media screen and (max-width: 768px){
+    .closed-img{
+        height: 50vh;
+    }
+}

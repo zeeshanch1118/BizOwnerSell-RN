@@ -1,0 +1,93 @@
+.inner-header-bg {
+  background-color: #081c3d;
+}
+.font-family-bizOwner {
+  font-family: 'Helvetica Neue';
+}
+.width-popular {
+  width: 20%;
+}
+
+.text-link {
+  color: #808080;
+  font-family: 'Helvetica 25 UltraLight', sans-serif !important;
+}
+.text-link:hover {
+  color: #00a3ef;
+}
+.text-color-bizowner {
+  color: #808080;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: normal;
+  /* font-family: Helvetica Neue; */
+  font-family: 'Helvetica Neue';
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.cara-heading {
+  font-family: 'Helvetica 25 UltraLight', sans-serif;
+  font-size: 13px;
+  font-weight: lighter;
+}
+
+.contact-btn {
+  background-color: #fff;
+  color: #00a3ef;
+  font-size: 14px;
+  border: 1px solid #00a3ef;
+}
+.heading-sell {
+  font-size: 25px;
+  color: white;
+  font-weight: 200;
+  font-family: 'Helvetica 25 UltraLight', sans-serif;
+}
+.sell-btn {
+  border: 1px solid white;
+}
+.listing-heading-franchise-franchise {
+  font-size: 18px !important;
+  font-family: 'Helvetica Neue';
+}
+.clients-heading {
+  font-size: 40px;
+  color: #081c3d;
+  font-family: 'Helvetica 35 Thin', sans-serif;
+  font-weight: lighter;
+}
+.testies {
+  font-family: 'Helvetica 25 UltraLight', sans-serif;
+  font-weight: 100;
+}
+.biz-owner-accordion {
+  width: 80% !important;
+}
+.cara-btn {
+  font-family: 'Helvetica 45 Light', sans-serif;
+  font-size: 15px;
+}
+
+@media screen and (max-width: 400px) {
+  .listing-heading-franchise-franchise {
+    font-size: 10px !important;
+  }
+  .heading-sell {
+    font-size: 14px !important;
+  }
+  .clients-heading {
+    font-size: 18px;
+  }
+  .cara-btn {
+    font-size: 12px;
+  }
+}

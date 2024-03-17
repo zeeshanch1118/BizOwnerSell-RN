@@ -1,0 +1,12 @@
+.select-scroll {
+  overflow-y: scroll;
+}
+.rpt_label {
+  text-align: right;
+}
+
+@media only screen and (max-width: 780px) {
+  .rpt_label {
+    text-align: left;
+  }
+}

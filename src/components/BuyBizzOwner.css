@@ -1,0 +1,340 @@
+.bizOwner-bg-color {
+  background-color: #00a3ef;
+}
+.bizOwner-color {
+  color: #fdfdfd;
+}
+
+.bizOwner-headings {
+  font-size: 22px;
+  color: black;
+  line-height: 1.3;
+  margin-bottom: 8px;
+  font-weight: 400;
+}
+.biz_owner_Plan_card {
+  position: relative;
+  top: 0;
+  transition: all 0.3s ease-out !important;
+}
+.userListingStatus .form-check-input:checked[type='checkbox'] {
+  background-color: white;
+  background-image: url('../assets/icons/check-box-tick-icon.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 10px;
+  border: 3px solid #00a3ef;
+}
+.userListingStatus .form-check-input[type='checkbox'] {
+  border: 3px solid #808080;
+}
+.listing-box .form-check-input:checked[type='checkbox'] {
+  background-color: white;
+  background-image: url('../assets/icons/check-box-tick-icon.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 10px;
+  border: 3px solid #00a3ef;
+}
+.listing-box .form-check-input[type='checkbox'] {
+  border: 3px solid #808080;
+}
+
+.bizOwner-top-headings {
+  color: #fff;
+  font-size: 38px;
+  max-width: 1140px;
+  margin: 0 auto;
+  line-height: 1;
+  font-weight: normal;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+.bizOwner-lead-heading {
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+.bizOwner-inner-heading {
+  font-size: 30px;
+  /* line-height: 40px; */
+  font-weight: 400;
+}
+.bizOwner-inner-description {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #3e3e3e;
+}
+.bizOwner-inner-bottom-heading {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #474747;
+}
+.bizOwner-price-table-heading {
+  font-size: 23px !important;
+  line-height: 31px !important;
+  font-weight: 400 !important;
+  color: #00a3ef !important;
+}
+.bizOwner-cash-flow-heading {
+  font-size: 23px !important;
+  line-height: 31px !important;
+  font-weight: 400 !important;
+  color: #1a1c1ccb !important;
+}
+.bizOwner-price-heading {
+  font-size: 21px;
+  line-height: 1.1;
+  font-weight: 400;
+}
+.bizOwner-btn-color {
+  font-size: 15px;
+  line-height: 1;
+  background-color: #00a3ef;
+  color: #ffffff;
+}
+.bizOwner-btn-color:hover {
+  background-color: #049adf;
+  color: #ffffff;
+}
+.bizOwner-business-description {
+  font-size: 24px;
+  line-height: 1.3;
+  font-weight: 400;
+}
+.bizOwner-business-description-inner {
+  font-size: 22px;
+  line-height: 1.1;
+  font-weight: 400;
+  color: #505050;
+}
+.bizOwner-business-description-para {
+  font-size: 18px !important;
+  line-height: 1.2 !important;
+  font-weight: 400 !important;
+  color: #505050 !important;
+}
+.bizOwner-similarListing-heading {
+  font-size: 18px !important;
+  line-height: 1.2 !important;
+  font-weight: 400 !important;
+  color: #049adf !important;
+}
+.bizOwner-dashboard-heading {
+  font-size: 30px !important;
+  line-height: 42px !important;
+  font-weight: 400 !important;
+  color: #3e3e3e !important;
+}
+.bizOwner-dashboard-btns {
+  font-size: 100% !important;
+  line-height: 24px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-dashboard-lead-heading {
+  font-size: 22px !important;
+  line-height: 24px !important;
+  font-weight: 400 !important;
+  color: #049adf !important;
+}
+.bizOwner-dashboard-brokers {
+  font-size: 22px !important;
+  line-height: 24px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-dashboard-brokers-name {
+  font-size: 15px !important;
+  line-height: 20px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-dashboard-details {
+  font-size: 15px !important;
+  line-height: 18px !important;
+  font-weight: 400 !important;
+  color: #141313ce;
+}
+.bizOwner-dashboard-para {
+  font-size: 15px !important;
+  line-height: 24px !important;
+  font-weight: 400 !important;
+  color: #049adf !important;
+}
+.bizOwner-add-new-listing-heading {
+  font-size: 32px !important;
+  line-height: 32px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-add-new-listing-inner-heading {
+  font-size: 15px !important;
+  line-height: 21px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-email-preferences {
+  font-size: 30px !important;
+  line-height: 42px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-email-preferences-inner {
+  font-size: 18px !important;
+  line-height: 20px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-email-preferences-inner-heading {
+  font-size: 18px !important;
+  line-height: 20px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-email-guide-to-buying {
+  font-size: 30px !important;
+  line-height: 42px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-email-guide-to-buying-inner {
+  font-size: 18px !important;
+  line-height: 20px !important;
+  font-weight: 400 !important;
+}
+.bizOwner-email-guide-to-buying-para {
+  font-size: 15px !important;
+  line-height: 24px !important;
+  font-weight: 400 !important;
+}
+
+.bizOwner-parag {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  height: 78px;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 17px;
+  line-height: 26px;
+  margin-bottom: 0;
+  font-weight: lighter;
+}
+.minute-bg {
+  background-color: #dedede;
+  padding: 5px 2px;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* buy a business  */
+
+.biz_owner_sell_top_bar_bg {
+  background-color: #081c3d !important;
+}
+.biz_owner_sell_f_weight_normal {
+  font-weight: normal;
+}
+.biz_owner_sell_line_h_base {
+  line-height: 15px;
+}
+.biz_owner_sell_line_h_lg {
+  line-height: 30px;
+}
+.biz_owner_sell_font_size {
+  font-size: 110%;
+}
+.biz_owner_sell_business_description {
+  font-size: 110%;
+}
+.biz_owner_sell_business_location {
+  font-size: 110%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+@media screen and (max-width: 450px) {
+  .bizOwner-inner-heading {
+    font-size: 16px !important;
+  }
+  .bizOwner-dashboard-btns {
+    font-size: 12px !important;
+    line-height: 24px !important;
+    font-weight: 400 !important;
+  }
+  .bizOwner-dashboard-heading {
+    font-size: 15px !important;
+    line-height: 8px !important;
+    font-weight: 600 !important;
+    color: #3e3e3e !important;
+  }
+  .bizOwner-dashboard-heading-inner {
+    font-size: 15px !important;
+    line-height: 8px !important;
+    font-weight: 400 !important;
+    color: #3e3e3e !important;
+  }
+  .bizOwner-dashboard-brokers-name {
+    font-size: 12px !important;
+    line-height: 13px !important;
+    font-weight: 400 !important;
+  }
+
+  .bizOwner-dashboard-lead-heading {
+    font-size: 12px !important;
+    line-height: 24px !important;
+    font-weight: 400 !important;
+    color: #049adf !important;
+  }
+  .bizOwner-dashboard-heading-para {
+    font-size: 9px !important;
+  }
+  .bizOwner-btn-color {
+    font-size: 12px !important;
+    line-height: 1;
+    background-color: #00a3ef;
+    color: #ffffff;
+  }
+  .bizOwner-dashboard-brokers {
+    font-size: 12px !important;
+    line-height: 19px !important;
+    font-weight: 700 !important;
+  }
+  .bizOwner-dashboard-details {
+    font-size: 10px !important;
+    line-height: 18px !important;
+    font-weight: 400 !important;
+    color: #141313ce;
+  }
+}
+@media screen and (max-width: 650px) {
+  .bizOwner-inner-heading {
+    font-size: 25px !important;
+  }
+  .form-label {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #3f4254;
+  }
+
+  input,
+  input::-webkit-input-placeholder {
+    font-size: 9px !important;
+  }
+
+  .css-1s2u09g-control > div {
+    font-size: 8px !important;
+  }
+}

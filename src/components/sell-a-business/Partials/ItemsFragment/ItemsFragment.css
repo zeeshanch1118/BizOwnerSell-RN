@@ -1,0 +1,231 @@
+.smVsbg-img{
+    float: left;
+    max-width: 100%;
+    /* height: 100vh; */
+      display: block;
+      /* height: 193px; */
+      background-image: url('../../../../assets/images/steppersInnerImages/buying-a-small-business-vs-big-business.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+}
+.smBvalue-img{
+    float: left;
+    max-width: 100%;
+    /* height: 100vh; */
+      display: block;
+      /* height: 193px; */
+      background-image: url('../../../../assets/images/steppersInnerImages/before-you-buy-recognizing-small-business-value-drivers.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+}
+.minute-bg {
+  background-color: #dedede;
+  padding: 6px;
+  font-size: 16px;
+  top: 0;
+  left: 0;
+}
+.card-title{
+  color: #2570a7;
+  text-align: center;
+  line-height: 1.5;
+  font-size: 22px;
+  /* padding: 10px 10px 5px 10px */
+}
+.bizOwner-top-headings {
+  color: #fff;
+  font-size: 38px;
+  max-width: 1140px;
+  margin: 0 auto;
+  line-height: 1;
+  font-weight: normal;
+}
+
+.bizOwner-lead-heading {
+  font-size: 22px;
+  font-weight: lighter;
+
+}
+.bizOwner-parag {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  height: 78px;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 17px;
+  line-height: 26px;
+  margin-bottom: 0;
+  font-weight: lighter;
+}
+.bizOwner-headings {
+  font-size: 22px;
+  color: #00A3EF;
+  line-height: 1.3;
+  margin-bottom: 8px;
+  font-weight: 100;
+}
+.text-body{
+  position: relative;
+}
+.minute-text-bg{
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size:15px;
+  background-color: #dedede;
+  padding: 5px 2px;
+}
+.bizOwner-padding{
+  padding-bottom: 10px;
+}
+.bizOwner-top-img{
+  margin-top: 10px;
+}
+.step-one-btn {
+  background: #00A3EF;
+  border: 1px solid #1681b3;
+  background-color: #00A3EF;
+  border-color: #167099;
+  border-radius: 10px;
+  box-shadow: none;
+  color: #fff;
+  filter: none;
+  float: left;
+  font-family: 'CostarBrownRegular', Helvetica, Arial, sans-serif;
+  padding: 8px 16px 9px 16px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.step-one-btn:hover {
+  background-color: #fff;
+  border: 1px solid #081C3D;
+  color: #081C3D;
+}
+.bestBusiness-img{
+    float: left;
+    max-width: 100%;
+    /* height: 100vh; */
+      display: block;
+      /* height: 193px; */
+      background-image: url('../../../../assets/images/steppersInnerImages/how-to-decide-the-best-busines-to-own.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+}
+.mixing-apple-img{
+    float: left;
+      max-width: 100%;
+      /* height: 100vh; */
+      display: block;
+      /* height: 193px; */
+      background-image: url('../../../../assets/AllArticles/mixing-pineapples-and-apples-buildup-method-in-business-valuation.jpeg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+  
+}
+.normalize-img{
+float: left;
+  max-width: 100%;
+  /* height: 100vh; */
+  display: block;
+  /* height: 193px; */
+  background-image: url('../../../../assets/AllArticles/normalizing-adjustment-in-rent-for-business-appraisal.jpeg ');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.judge-opinion-img{
+float: left;
+  max-width: 100%;
+  /* height: 100vh; */
+  display: block;
+  /* height: 193px; */
+  background-image: url('../../../../assets/AllArticles/in-business-valuation-how-does-one-judge-an-opinion.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.no-one-buy-img{
+    float: left;
+      max-width: 100%;
+      /* height: 100vh; */
+      display: block;
+      /* height: 193px; */
+      background-image: url('../../../../assets/AllArticles/no-one-will-buy-a-business-to-work-60-hour-week-16-dollars-an-hour.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+}
+.spotBusiness-img{
+    float: left;
+    max-width: 100%;
+    /* height: 100vh; */
+      display: block;
+      /* height: 193px; */
+      background-image: url('../../../../assets/images/steppersInnerImages/how-to-spot-the-best-business-to-buy.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+}
+.closed-img{
+  float: left;
+max-width: 100%;
+/* height: 100vh; */
+  display: block;
+  /* height: 193px; */
+  background-image: url('../../../../assets/images/closed-business.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+.evaluate-img{
+    float: left;
+    max-width: 100%;
+    /* height: 100vh; */
+      display: block;
+      /* height: 193px; */
+      background-image: url('../../../../assets/images/steppersInnerImages/evaluating-a-business-what-to-ask-the-owner.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;
+}
+.threeKey-img{
+    float: left;
+    max-width: 100%;
+    /* height: 100vh; */
+      display: block;
+      /* height: 193px; */
+      background-image: url('../../../../assets/images/steppersInnerImages/buying-a-small-business-3-key-areas-to-focus-on.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top center;   
+}
+
+@media screen and (max-width: 768px){
+  .closed-img{
+      height: 50vh;
+  }
+  .threeKey-img{
+    height: 50vh;
+  }
+  .evaluate-img{
+    height: 50vh;
+  }
+  .spotBusiness-img{
+    height: 50vh;
+  }
+  .bestBusiness-img{
+    height: 50vh;
+  }
+.smBvalue-img{
+  height: 50vh;
+}
+
+.smVsbg-img{
+  height: 50vh;
+}
+}

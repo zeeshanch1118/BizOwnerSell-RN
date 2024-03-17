@@ -1,0 +1,202 @@
+.main_div {
+  display: flex;
+}
+.card-heading {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+}
+
+.slider {
+  width: 80%;
+}
+
+.empty {
+  width: 20%;
+}
+
+.owl_item {
+  padding: 5px;
+}
+#landing > .slick-slider > .slick-prev {
+  background-color: #00a3ef;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-radius: 5px;
+  top: 270px;
+  width: 45px;
+  height: 45px;
+}
+#landing > .slick-slider > .slick-next {
+  background-color: #00a3ef;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-radius: 5px;
+  top: 270px;
+  width: 45px;
+  height: 45px;
+}
+
+/* .slick-prev,
+.slick-next {
+  background-color: #00a3ef;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-radius: 5px;
+  top: 300px;
+  width: 45px;
+  height: 45px;
+} */
+.btn-color2 {
+  background-color: #dee9f1;
+  border: 1px solid #00a3ef;
+  color: #00a3ef;
+}
+
+.btn-color2:hover {
+  background-color: #00a3ef !important;
+  color: white;
+}
+#landing > .slick-slider > .slick-prev:focus {
+  background-color: #00a3ef;
+}
+#landing > .slick-slider > .slick-next:focus {
+  background-color: #00a3ef;
+}
+#landing > .slick-slider > .slick-prev:hover {
+  background-color: #00a3ef;
+}
+#landing > .slick-slider > .slick-next:hover {
+  background-color: #00a3ef;
+}
+
+#landing > .slick-slider > .slick-next {
+  left: -65px;
+}
+
+#landing > .slick-slider > .slick-prev {
+  left: -125px;
+}
+
+.bottom_footer p {
+  color: white;
+}
+
+.last {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 786px) {
+  .card-heading {
+    font-size: 12;
+  }
+}
+
+@media (width: 425px) {
+  #landing > .slick-slider > .slick-next {
+    left: 140px !important;
+  }
+
+  #landing > .slick-slider > .slick-prev {
+    left: 90px !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .sell-text {
+    font-size: 30px;
+  }
+
+  .text-color {
+    font-size: 14px;
+  }
+
+  .heading-sell,
+  .featured-business {
+    font-size: 20px;
+  }
+
+  .py-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .clients-heading {
+    font-size: 20px;
+  }
+
+  .icon-bg {
+    height: 30px;
+  }
+
+  .bottom_footer {
+    text-align: center;
+  }
+
+  .bottom_footer p {
+    padding: 10px;
+  }
+
+  .listed-heading {
+    font-size: 20px;
+  }
+
+  .end-border-business {
+    flex-direction: none;
+  }
+
+  .landing-screen-bg {
+    backdrop-filter: blur(9px);
+  }
+
+  .slick-slide {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .features_row {
+    justify-content: center;
+  }
+
+  #landing > .slick-slider > .slick-next {
+    top: 370px;
+    left: 120px;
+  }
+
+  #landing > .slick-slider > .slick-prev {
+    z-index: 9;
+    top: 370px;
+    left: 70px;
+  }
+
+  .empty {
+    width: 10%;
+  }
+
+  #landing > .slick-slider > .slick-next {
+    opacity: 0;
+  }
+  #landing > .slick-slider > .slick-prev {
+    opacity: 0;
+  }
+}
+
+@media (max-width: 320px) {
+  #landing > .slick-slider > .slick-next {
+    top: 360px;
+    left: 95px !important;
+  }
+
+  #landing > .slick-slider > .slick-prev {
+    z-index: 9;
+    top: 360px;
+    left: 40px;
+  }
+}

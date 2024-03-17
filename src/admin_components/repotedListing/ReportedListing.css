@@ -1,0 +1,89 @@
+.chat-hover {
+  cursor: pointer;
+}
+.chat-hover:hover {
+  background-color: #f1faff;
+}
+.icon-text-color {
+  color: #b5b5c3;
+}
+.icon-text-color:hover {
+  cursor: pointer;
+  color: #00a3ef;
+}
+.search-field {
+  outline: none;
+}
+.jodit-workplace + .jodit-status-bar:not(:empty) {
+  display: none !important;
+}
+/*  */
+.messageStyle {
+  animation-name: example;
+  animation-duration: 0.5s;
+  animation-direction: reverse;
+  height: 100%;
+}
+
+@keyframes example {
+  100% {
+    left: 350px;
+    top: 0px;
+  }
+}
+.modal-backdrop.show {
+  opacity: 0;
+}
+.offcanvas-end {
+  width: 490px;
+  padding: 20px;
+}
+
+.slide_box {
+  width: 0px;
+  background-color: whitesmoke;
+  height: 100vh;
+  overflow-y: scroll;
+  /* padding: 20px; */
+  text-align: justify;
+  /* float: right; */
+  right: 0%;
+  top: 0%;
+  z-index: 99999;
+  /* display: none; */
+  position: fixed;
+}
+
+/* .close_btn {
+  background-color: rgb(218, 223, 223);
+  padding: 10px;
+
+  border: none;
+  color: white;
+  border-radius: 5px;
+
+  font-size: 15px;
+} */
+/* /////////////// */
+.sideMenu {
+  background-color: white;
+  height: 100vh;
+  width: 35rem;
+  opacity: 0;
+  position: fixed;
+  visibility: hidden;
+  top: 10%;
+  right: 0%;
+  overflow-y: scroll;
+  transition: all 0.2s ease;
+  transform: translateX(200px);
+}
+
+.activeSideMenu {
+  opacity: 1;
+  position: fixed;
+
+  visibility: visible;
+  transition: all 0.2s ease;
+  transform: translateX(0);
+}

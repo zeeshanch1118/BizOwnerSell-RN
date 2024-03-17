@@ -1,0 +1,24 @@
+.myError {
+  border-top: 1.5px solid red;
+  color: red;
+}
+
+.css-yk16xz-control {
+  background-color: hsl(204deg 33% 97%) !important;
+  border: none !important;
+}
+
+.export-button {
+  position: relative;
+  left: 1.9rem;
+  height: 1.5rem;
+  opacity: 0;
+}
+.form-control-password-toggle {
+  background-color: #f5f8fa;
+  display: flex;
+  position: relative;
+  right: 5px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}

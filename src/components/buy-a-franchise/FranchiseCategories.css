@@ -1,0 +1,706 @@
+.button-z {
+  background-color: #00a3ef;
+}
+
+.biz-owner-text-break {
+  overflow-wrap: break-word !important;
+}
+#franchiseLocation * {
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+#franchiseLocation
+  > .css-b62m3t-container
+  > .css-1s2u09g-control
+  > .css-319lph-ValueContainer
+  > .css-14el2xx-placeholder {
+  font-size: 14px !important;
+  color: hsl(231deg 12% 42%) !important;
+  font-weight: 500 !important;
+}
+#franchiseLocation
+  > .css-b62m3t-container
+  > .css-1s2u09g-control
+  > .css-319lph-ValueContainer
+  > .css-qc6sy-singleValue {
+  font-size: 14px !important;
+  color: hsl(231deg 12% 42%) !important;
+  font-weight: 500 !important;
+}
+#franchiseLocation
+  > .css-b62m3t-container
+  > .css-1pahdxg-control
+  > .css-319lph-ValueContainer
+  > .css-qc6sy-singleValue {
+  font-size: 14px !important;
+  color: hsl(231deg 12% 42%) !important;
+  font-weight: 300 !important;
+}
+#franchiseLocation
+  > .css-b62m3t-container
+  > .css-1s2u09g-control
+  > .css-1okebmr-indicatorSeparator {
+  display: none !important;
+}
+#franchiseLocation > .css-b62m3t-container > .css-1s2u09g-control > .css-tlfecz-indicatorContainer {
+  color: #000000 !important;
+}
+
+.carousel-inner-container_franchise {
+  border: 0.2px solid #f1e6e6;
+}
+
+.button-z:hover {
+  background-color: #045c85;
+}
+
+.bizOwner-line-breaker {
+  display: -webkit-box !important;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2 !important;
+  overflow: hidden;
+}
+
+.BizBuyCheckedBtn {
+  background: #6c9401;
+}
+
+.BizBuyCheckedBtn:hover {
+  background: #3a4e03;
+}
+
+.biz_owner_input_validation {
+  border-top: 1px solid red;
+  color: red;
+}
+
+.social-media-icons {
+  border-right: 0.5px solid #dbdbdb;
+  padding-bottom: 4px;
+}
+
+.franchise-listing-bizOwner-heading {
+  /* font-family: 'Helvetica Neue', */
+  font-family: 'Arimo' !important;
+  font-weight: 700;
+  font-size: 16px !important;
+  line-height: 22px;
+  color: '#081C3D';
+  margin-bottom: 0px;
+}
+
+.myError {
+  border-top: solid;
+  border-width: 1px;
+  color: red;
+  margin: 0px;
+  padding-left: 7px;
+  margin-top: 0px;
+  /* background-color: #00a3ef; */
+}
+
+.react-tel-input .form-control {
+  font-size: 14px;
+  letter-spacing: 0.01rem;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 65px;
+  margin-left: 0;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+  border-radius: 5px;
+  line-height: 25px;
+  height: 45px !important;
+  width: 100%;
+  outline: none !important;
+}
+
+.react-tel-input .selected-flag {
+  background-color: #f5f8fa !important;
+}
+
+.react-tel-input .selected-flag:hover {
+  background-color: #f5f8fa !important;
+}
+
+.biz_owner_carousel_img_camera {
+  /* position: absolute; */
+  width: 30px;
+  height: 24px;
+
+  margin-top: 6px;
+  margin-right: 12px;
+}
+
+.biz_owner_carousel_img_camera-active {
+  /* position: absolute; */
+  width: 30px;
+  height: 24px;
+
+  margin-top: 6px;
+  margin-right: 12px;
+}
+
+.newStyleDiv {
+  background: #ffffff;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+.biz-owner-contact-form-input {
+  background-color: #f1f1f1;
+  border-radius: 19px;
+}
+
+.business-disable-btn {
+  border-radius: 25px;
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 15px;
+  background-color: #35b5f1 !important;
+  border: none !important;
+}
+
+.biz-owner-contact-btn {
+  border: 1.8px solid #00a3ef !important;
+  background-color: #fdfeff !important;
+  border-radius: 25px;
+  color: #00a3ef !important;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.biz-owner-contact-btn-add-list {
+  border: 1.8px solid #00a3ef !important;
+  background-color: #fdfeff !important;
+  border-radius: 25px;
+  color: #00a3ef !important;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.biz-owner-contact-btn-contacted-franchise {
+  border: 1.8px solid #00a3ef !important;
+  background-color: #3a99f9 !important;
+  border-radius: 25px;
+  color: #ffffff !important;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.biz-owner-btn-loader {
+  background-image: url('../../assets/Loader/ButtonLoader.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 1.8px solid #00a3ef !important;
+  background-color: #00a3ef !important;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 13px;
+  width: 9.5rem !important;
+  height: 3rem !important;
+}
+
+.PhoneInputInput {
+  border: none;
+  background-color: #f5f8fa !important;
+  border-color: #f5f8fa !important;
+}
+
+.PhoneInputInput:focus {
+  outline: none !important;
+}
+
+@media screen and (min-width: 400px) {
+  .biz-owner-contact-btn {
+    padding-right: 18px !important;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+  }
+
+  .biz-owner-contact-btn-add-list {
+    padding-left: 17px !important;
+    padding-right: 17px !important;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+  }
+
+  .biz-owner-contact-btn-contacted-franchise {
+    padding-left: 17px !important;
+    padding-right: 17px !important;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+  }
+}
+
+.biz-owner-end-border-franchise {
+  border-right: 0.5px solid #dbdbdb !important;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+@media screen and (max-width: 800px) {
+  .biz-owner-end-border-franchise {
+    border: none !important;
+  }
+}
+@media screen and (min-width: 1401px) {
+  .similar-right-bar {
+    padding-right: 43px !important;
+  }
+}
+
+/* /////////////////////// */
+/* * {
+  font-family: 'Helvetica Neue';
+} */
+
+.biz-owner-contact-btn {
+  border: 1.8px solid #00a3ef !important;
+  background-color: #fdfeff !important;
+  border-radius: 25px;
+  color: #00a3ef !important;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+/* .biz-owner-contact-btn:hover {
+    background-color: #00a3ef !important;
+    color: #fdfeff !important;
+  } */
+
+.biz-owner-buy-a-business-component_franchise {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+
+/* .biz-owner-end-border_franchise {
+  border-right: 0.5px solid #dbdbdb;
+  
+} */
+.biz-owner-price-dollar-icon_franchise {
+  position: relative;
+  top: -2px;
+}
+
+.biz-owner-business-price_franchise {
+  color: #00a3ef;
+  font-size: 18px;
+}
+
+.cash-flow_franchise {
+  font-size: 12px;
+  color: #081c3d;
+  font-weight: lighter;
+}
+
+.social-media-icons_franchise {
+  border-right: 0.5px solid #dbdbdb;
+  padding-bottom: 4px;
+}
+
+/* carousel  */
+.biz_owner_carousel_container_franchise {
+  height: 100%;
+}
+
+/* .biz_owner_carousel_img {
+    height: 100%;
+    width: 100%;
+  } */
+
+.biz_owner_carousel_img_camera_franchise {
+  position: absolute;
+  width: 30px;
+  height: 35px;
+  top: 8px;
+  left: 8px;
+  border-radius: 3px;
+  color: white;
+  border-color: #000000;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(5px);
+}
+
+.biz_owner_carousel_img_camera-active_franchise {
+  position: absolute;
+  width: 30px;
+  height: 35px;
+  top: 8px;
+  left: 8px;
+  border-radius: 3px;
+  color: white;
+  background: #00a3ef;
+  backdrop-filter: blur(5px);
+}
+
+.biz-owner-heart-icon-save-listings_franchise {
+  width: 24px;
+}
+
+.carousel-control-prev-icon {
+  background: rgba(0, 0, 0, 0.9) !important;
+  backdrop-filter: blur(5px) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  padding-left: 5px !important;
+  padding-right: 8px !important;
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+  border-radius: 5px !important;
+
+  background-image: url('../../assets/icons/carousel-back-btn.svg') !important;
+  background-size: 40px !important;
+}
+
+.carousel-control-next-icon {
+  background: rgba(0, 0, 0, 0.9) !important;
+  backdrop-filter: blur(5px) !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  padding-left: 5px !important;
+  padding-right: 8px !important;
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+  border-radius: 5px !important;
+  background-size: 40px !important;
+
+  background-image: url('../../assets/icons/carousel-next-btn.svg') !important;
+}
+
+/* .biz_owner_carousel_img_camera_franchise:hover {
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(5px);
+} */
+.biz-owner-carousel-btn-left_franchise {
+  position: absolute;
+  background-color: #000000;
+  bottom: 10px;
+  height: fit-content;
+  left: 33%;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(5px);
+  border-radius: 3px;
+  border: none;
+  font-weight: bolder;
+  align-items: center;
+  /* background-image: url('../../../assets/icons/back-icon.svg');
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    background-size: contain; */
+}
+
+.biz-owner-carousel-btn-left_franchise:hover {
+  background: rgba(0, 0, 0, 0.9);
+  backdrop-filter: blur(5px);
+}
+
+.biz-owner-carousel-btn-right_franchise {
+  position: absolute;
+  background-color: #000000;
+  bottom: 10px;
+  height: fit-content;
+  right: 33%;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(5px);
+  border-radius: 3px;
+  border: none;
+}
+
+.biz-owner-carousel-btn-right_franchise:hover {
+  background: rgba(0, 0, 0, 0.9);
+  backdrop-filter: blur(5px);
+}
+
+/* @media screen and (min-width: 767px) {
+    .biz-owner-carousel-btn-right {
+      right: 35%;
+    }
+    .biz-owner-carousel-btn-left {
+      left: 30%;
+    }
+  }
+  @media screen and (min-width: 932px) {
+    .biz-owner-carousel-btn-right {
+      right: 30%;
+    }
+    .biz-owner-carousel-btn-left {
+      left: 30%;
+    }
+  }
+  @media screen and (min-width: 1000px) {
+    .biz-owner-carousel-btn-right {
+      right: 32%;
+    }
+    .biz-owner-carousel-btn-left {
+      left: 32%;
+    }
+  }
+  @media screen and (min-width: 1100px) {
+    .biz-owner-carousel-btn-right {
+      right: 32%;
+    }
+    .biz-owner-carousel-btn-left {
+      left: 32%;
+    }
+  }
+  @media screen and (min-width: 1200px) {
+    .biz-owner-carousel-btn-right {
+      right: 36%;
+    }
+    .biz-owner-carousel-btn-left {
+      left: 36%;
+    }
+  } */
+.franchise-disable-btn {
+  border-radius: 25px !important;
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 15px;
+  background-color: #35b5f1 !important;
+  border: none !important;
+  padding-right: 20px !important;
+}
+
+@media screen and (max-width: 1600px) {
+  .biz-owner-carousel-btn-right_franchise {
+    right: 32%;
+  }
+
+  .biz-owner-carousel-btn-left_franchise {
+    left: 32%;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .biz-owner-carousel-btn-right_franchise {
+    right: 29%;
+  }
+
+  .biz-owner-carousel-btn-left_franchise {
+    left: 29%;
+  }
+
+  .biz_owner_carousel_container_franchise {
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .biz-owner-carousel-btn-right_franchise {
+    right: 28%;
+  }
+
+  .biz-owner-carousel-btn-left_franchise {
+    left: 28%;
+  }
+
+  .biz_owner_carousel_container_franchise {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .biz-owner-carousel-btn-right_franchise {
+    right: 27%;
+  }
+
+  .biz-owner-carousel-btn-left_franchise {
+    left: 27%;
+  }
+
+  .biz_owner_carousel_container_franchise {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 765px) {
+  .biz-owner-carousel-btn-right_franchise {
+    right: 40%;
+  }
+
+  .biz-owner-carousel-btn-left_franchise {
+    left: 40%;
+  }
+
+  .biz_owner_carousel_container_franchise {
+    width: 100%;
+  }
+
+  .biz-owner-carousel-franchise-imgs {
+    height: 20rem;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 624px) {
+  .biz-owner-carousel-btn-right_franchise {
+    right: 30%;
+  }
+
+  .biz-owner-carousel-btn-left_franchise {
+    left: 30%;
+  }
+
+  .biz_owner_carousel_container_franchise {
+    width: 100%;
+  }
+
+  .biz-owner-carousel-franchise-imgs {
+    height: 13rem;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .biz-owner-carousel-btn-right_franchise {
+    right: 27%;
+  }
+
+  .biz-owner-carousel-btn-left_franchise {
+    left: 27%;
+  }
+
+  .franchise-listing-bizOwner-heading {
+    /* font-family: 'Helvetica Neue', */
+    font-family: 'Arimo' !important;
+    font-size: 15px !important;
+  }
+}
+
+.similar-price-range {
+  font-size: 18px;
+}
+
+/* @media screen and (max-width: 1200px) {
+    .biz_owner_carousel_container {
+      height: 100%;
+      width: 20rem;
+    }
+  } */
+/* @media screen and (max-width: 913px) {
+    .biz_owner_carousel_container {
+      height: 100%;
+      width: 19rem;
+    }
+  } */
+/* @media screen and (max-width: 874px) {
+    .biz_owner_carousel_container {
+      height: 100%;
+      width: 18rem;
+    }
+  } */
+/* @media screen and (max-width: 840px) {
+    .biz_owner_carousel_container {
+      height: 100%;
+      width: 23rem;
+    }
+  } */
+/* @media screen and (max-width: 768px) {
+    .biz_owner_carousel_container {
+      height: 100%;
+      width: 90%;
+    }
+  } */
+
+/* @media screen and (min-width: 633px) {
+    .biz_owner_carousel_container {
+      height: 100%;
+      width: 20rem;
+    }
+  } */
+/* @media screen and (max-width: 680px) {
+    .biz_owner_carousel_container {
+      height: 100%;
+      width: 100%;
+      margin: auto;
+    }
+  } */
+
+@media screen and (max-width: 995px) {
+  .biz-owner-end-border-franchise {
+    border: none;
+  }
+}
+
+/* @media screen and (min-width: 100px) {
+    .biz-owner-end-border {
+      width: 55%;
+    }
+  } */
+.biz-owner-contact-btn_franchise {
+  border: 1.8px solid #00a3ef !important;
+  background-color: #fdfeff !important;
+  border-radius: 25px;
+  color: #00a3ef !important;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+@media screen and (min-width: 450px) {
+  .biz-owner-contact-btn_franchise {
+    padding-left: 12px !important;
+    padding-right: 15px !important;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+  }
+
+  .eact-tel-input .form-control {
+    height: 36px !important;
+  }
+
+  /* .biz-owner-end-border {
+      width: 48%;
+    } */
+}
+.btn-contact-dismiss {
+  background-color: #35bfff53;
+  color: white;
+  cursor: default !important;
+}
+
+@media screen and (min-width: 1000px) {
+  .biz-owner-end-border-franchise {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1399px) {
+  .cash-flow_franchise {
+    font-size: 15px;
+    color: #081c3d;
+    font-weight: lighter;
+  }
+
+  .biz-owner-end-border-franchise {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .biz-owner-carousel-franchise-imgs {
+    height: 12rem;
+  }
+  .newStyleDiv {
+    min-height: 14rem;
+  }
+}
+
+@media screen and (min-width: 760px) {
+  .similar-biz-owner-buy-a-business-component {
+    height: 14rem !important;
+  }
+}

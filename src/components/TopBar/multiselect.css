@@ -1,0 +1,17 @@
+.multiSelectContainer li:hover {
+  background-color: #deedf7;
+}
+.highlightOption {
+  background-color: #deedf7;
+}
+.searchWrapper {
+  border: none;
+}
+.css-1s2u09g-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}
+.css-1pahdxg-control {
+  background-color: #f5f8fa !important;
+  border: none !important;
+}

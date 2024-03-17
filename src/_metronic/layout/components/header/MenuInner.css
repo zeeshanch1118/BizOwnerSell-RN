@@ -1,0 +1,92 @@
+.active-class:active {
+  background-color: #081c3d;
+  color: white;
+}
+.active-class-text {
+  color: #ffffff;
+  font-family: Helvetica Neue;
+  font-weight: 400;
+}
+.icon_signIn {
+  display: none;
+}
+.icon_join {
+  display: none;
+}
+/* .btn-join:hover .btn-top-bar-Active {
+  background-color: white !important;
+  color: black;
+}
+.btn-top-bar-Active:hover .btn-join {
+  background-color: white !important;
+  color: black;
+} */
+.owner-btn-signin:hover .btn-top-bar-Active {
+  background-color: #fff !important;
+  color: #212529 !important;
+  position: relative;
+  z-index: -11;
+}
+.owner-btn-signin:hover {
+  background-color: #081c3d;
+  color: white;
+}
+
+.signin-btn-bg {
+  box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.15);
+  width: 235px;
+  height: 45px;
+}
+
+.btn-top-bar-Active {
+  background-color: #081c3d !important;
+  color: white !important;
+}
+.lg-screen {
+  display: none !important;
+}
+.logOutLoader {
+  width: 20px;
+  height: 20px;
+}
+@media (min-width: 1440px) {
+  .lg-screen {
+    display: block !important;
+  }
+}
+@media (max-width: 550px) {
+  .logOutLoader {
+    width: 15px;
+    height: 15px;
+  }
+  #bizowner-header-logo{
+      width: 200px;
+        height: 60px;
+  }
+}
+@media (max-width: 425px) {
+  .signin-btn-bg {
+    box-shadow: 2px 2px 20px rgba(0, 0, 0, 0.15);
+    width: 215px;
+    height: 45px;
+  }
+}
+@media screen and (min-width: 1000px) and (max-width: 1024px) {
+  .signin-btn-bg {
+    box-shadow: none;
+    width: 5px;
+    height: 45px;
+  }
+  .signIn_text {
+    display: none;
+  }
+  .icon_signIn {
+    display: block;
+  }
+  .icon_join {
+    display: block;
+  }
+  .joinNow_text {
+    display: none;
+  }
+}
